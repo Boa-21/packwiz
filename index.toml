@@ -2797,6 +2797,11 @@ hash = "e269f863b76ba339860c6b881d64e23a73d75eae13aeef84007f50053e4f3080"
 metafile = true
 
 [[files]]
+file = "mods/clear-fog.pw.toml"
+hash = "67a4ddeabb141f54f03fbf4de1b57db2104770c685cb8acb594c7d14d446bd47"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "6068e9dba7098eb69fc84c96b4e734daa6493c3ee6817c9ec4e6d8e62d93cb1b"
 metafile = true
@@ -3113,7 +3118,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "6cc69e1760cb309b400791aa1bf8983de23760d43bcbf42fbeafd12ae124a54d"
+hash = "2b332387ecfe096e3b45d39294ca62bcf59f8c72e1d316e1df142cc8ae9a9c7e"
 metafile = true
 
 [[files]]
