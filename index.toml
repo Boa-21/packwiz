@@ -2905,6 +2905,11 @@ hash = "a1edcfe3834bd2e4716fd06f537fa524e0a68820b170cbba008648c63935b8ee"
 metafile = true
 
 [[files]]
+file = "mods/dungeons_delight.pw.toml"
+hash = "633da82d88437f80abcc0aed54eda0a6a7d89e1f3289d3fdc85a529d1ec0b0ee"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "cc18e394555421836d342d904a7771d6188f573f1b28b0000d705cd7945eb4a0"
 metafile = true
