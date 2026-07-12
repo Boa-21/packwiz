@@ -1,0 +1,13 @@
+name = "Barched"
+filename = "barched-neoforge-0.0.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79185e4c1d1567eef76190b68129307efaa549bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8339807
+project-id = 1432818

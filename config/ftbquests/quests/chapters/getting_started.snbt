@@ -1,0 +1,326 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "getting_started"
+	group: "14741A9C28A83F13"
+	icon: {
+		id: "minecraft:oak_log"
+	}
+	id: "138F204555164358"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "54703828CC7FCC92"
+			rewards: [
+				{
+					count: 4
+					id: "18440AE3B0BD9DE1"
+					item: {
+						count: 1
+						id: "minecraft:stick"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "3E23E4E2263EB282"
+					item: {
+						count: 1
+						id: "minecraft:apple"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "blazeandcave:bacap/getting_wood"
+				criterion: ""
+				id: "4AAF81AC1B2B2F18"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["54703828CC7FCC92"]
+			id: "36572724F4A8CBE3"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "040E655298E52D75"
+					table_id: 4379562058974340863L
+					type: "random"
+				}
+				{
+					id: "2B6E17F3929FB128"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "15E0D3818155630B"
+					item: { count: 1, id: "minecraft:wooden_shovel" }
+					type: "item"
+				}
+				{
+					id: "61CA9FA6852E6FA8"
+					item: { count: 1, id: "minecraft:wooden_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "6276D4B90F23443E"
+					item: { count: 1, id: "minecraft:wooden_axe" }
+					type: "item"
+				}
+				{
+					id: "381C70E36728AD7D"
+					item: { count: 1, id: "minecraft:wooden_hoe" }
+					type: "item"
+				}
+				{
+					id: "5C68678CA45535F2"
+					item: { count: 1, id: "minecraft:wooden_sword" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["36572724F4A8CBE3"]
+			id: "2C5E1F7D1DA46857"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6CDD52F75B08462E"
+					table_id: 4379562058974340863L
+					type: "random"
+				}
+				{
+					id: "371941D0D20DD800"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "128476A988F1D0F5"
+				item: { count: 1, id: "minecraft:cobblestone" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2C5E1F7D1DA46857"]
+			id: "2DDCD7FD13799261"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1F674A1AB2704C6E"
+					table_id: 4379562058974340863L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4270064C7D192814"
+					table_id: 6635524722245885241L
+					type: "choice"
+				}
+			]
+			tasks: [
+				{
+					advancement: "minecraft:story/iron_tools"
+					criterion: ""
+					id: "10D860998C73D342"
+					type: "advancement"
+				}
+				{
+					id: "3BD0D1B1755489A9"
+					item: { count: 1, id: "backpacked:backpack" }
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2DDCD7FD13799261"]
+			id: "6E110E9461C92D2E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "689FA01ED6E56C2C"
+				table_id: 4379562058974340863L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1F771C34BF465BC9"
+				type: "checkmark"
+			}]
+			x: 14.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6E110E9461C92D2E"]
+			id: "44312C3CD8886843"
+			rewards: [{
+				id: "29FDACC85AC78073"
+				item: {
+					count: 1
+					id: "farmersdelight:skillet"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5A7787BDDCD21BE4"
+				item: { count: 1, id: "farmersdelight:stove" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6E110E9461C92D2E"]
+			id: "2C5CE5F44415B98D"
+			rewards: [
+				{
+					count: 5
+					id: "0B71EEC6975AB8F7"
+					item: {
+						count: 1
+						id: "minecraft:egg"
+					}
+					type: "item"
+				}
+				{
+					id: "7CEA9022D060A5A7"
+					item: {
+						count: 1
+						id: "alexsmobs:roadrunner_feather"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2CCF942603A5DC43"
+				item: { count: 1, id: "alexsmobs:animal_dictionary" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6E110E9461C92D2E"]
+			id: "713F2A964C4E25AB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "694361F4EE4D4705"
+					table_id: 905466249421910571L
+					type: "random"
+				}
+				{
+					count: 4
+					id: "7CB8AA1FA4F1BEAD"
+					item: {
+						count: 1
+						id: "farmersdelight:rich_soil"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6B691F70D04051B9"
+				item: { count: 1, id: "minecraft:iron_hoe" }
+				type: "item"
+			}]
+			x: 15.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6E110E9461C92D2E"]
+			id: "275E1CC720D61495"
+			rewards: [{
+				id: "389971E7E26BEF7E"
+				item: {
+					count: 1
+					id: "minecraft:shield"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0EE6A76282699F30"
+				item: { count: 1, id: "minecraft:iron_sword" }
+				type: "item"
+			}]
+			x: 15.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6E110E9461C92D2E"]
+			id: "53D0370277729415"
+			rewards: [{
+				count: 32
+				id: "09959562C582D641"
+				item: {
+					count: 1
+					id: "minecraft:arrow"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "15D2AEC598E50991"
+					item: { count: 1, id: "minecraft:rotten_flesh" }
+					type: "item"
+				}
+				{
+					id: "152E4442927804D4"
+					item: { count: 1, id: "minecraft:bone" }
+					type: "item"
+				}
+				{
+					id: "11FD679E42BAA1F4"
+					item: { count: 1, id: "minecraft:string" }
+					type: "item"
+				}
+				{
+					id: "7DFC8ABA60C84D53"
+					item: { count: 1, id: "minecraft:gunpowder" }
+					type: "item"
+				}
+			]
+			x: 14.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6E110E9461C92D2E"]
+			id: "4C5F54680C8EA5A2"
+			rewards: [{
+				id: "7A052152DB3B2473"
+				item: {
+					components: {
+						"irons_jewelry:jewelry_data": {
+							parts: {
+								"irons_jewelry:band_simple": "irons_jewelry:iron"
+							}
+							pattern: "irons_jewelry:simple_band"
+						}
+						"minecraft:item_name": "{\"translate\":\"pattern.irons_jewelry.simple_band.item\",\"with\":[{\"translate\":\"material.irons_jewelry.iron\"}]}"
+					}
+					count: 1
+					id: "irons_jewelry:ring"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "61273833CAE667FD"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(relics:relic)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: 2.0d
+		}
+	]
+}

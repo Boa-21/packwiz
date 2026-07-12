@@ -1,0 +1,61 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "zoologie"
+	group: "7FB9E64DF1FD127E"
+	icon: {
+		id: "neapolitan:chimpanzee_head"
+	}
+	id: "68FF8213031ACC66"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		id: "0613B7CCA06B80E7"
+		shape: "rsquare"
+		size: 1.5d
+		tasks: [
+			{
+				icon: {
+					id: "minecraft:pig_spawn_egg"
+				}
+				id: "30578B49D52756CF"
+				observe_type: 5
+				timer: 0L
+				to_observe: "minecraft:pig"
+				type: "observation"
+			}
+			{
+				icon: {
+					id: "minecraft:cow_spawn_egg"
+				}
+				id: "0AB0E850074FBC7E"
+				observe_type: 5
+				timer: 0L
+				to_observe: "minecraft:cow"
+				type: "observation"
+			}
+			{
+				icon: {
+					id: "minecraft:chicken_spawn_egg"
+				}
+				id: "7B664F23B7599A2F"
+				observe_type: 5
+				timer: 0L
+				to_observe: "minecraft:chicken"
+				type: "observation"
+			}
+			{
+				icon: {
+					id: "minecraft:sheep_spawn_egg"
+				}
+				id: "4269B8EE384F169B"
+				observe_type: 5
+				timer: 0L
+				to_observe: "minecraft:sheep"
+				type: "observation"
+			}
+		]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

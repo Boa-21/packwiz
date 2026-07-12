@@ -1,0 +1,51 @@
+{
+	id: "6E7C2F470FFBCFD3"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			count: 2
+			id: "2B552C53657E796B"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+		}
+		{
+			count: 16
+			id: "19545C1BEBE18030"
+			item: {
+				count: 1
+				id: "minecraft:dirt"
+			}
+		}
+		{ id: "354A481159053775", item: { components: { "minecraft:custom_name": "\"\\\"Inca una si ma duc!\\\"\"" }, count: 1, id: "brewinandchewin:beer" } }
+		{ id: "5697AF3CCBFFE219", item: { count: 1, id: "furnitureexpanded:toilet" } }
+		{ id: "10812363CCC7DD85", item: { count: 1, id: "furnitureexpanded:bathtub" } }
+		{ id: "74EE66072516323C", item: { count: 1, id: "simplehats:hatbag_epic" } }
+		{
+			description: "...right?"
+			icon: {
+				id: "minecraft:diamond_block"
+			}
+			id: "1CEA5E381FD81E87"
+			type: "toast"
+		}
+		{ id: "2D59053B15C3B429", item: { count: 1, id: "farmersdelight:roast_chicken_block" } }
+		{ id: "5E83AFFBCB2AF76D", item: { components: { "minecraft:custom_name": "\"Shaorma\"" }, count: 1, id: "farmersdelight:mutton_wrap" } }
+		{ id: "24D4AF875DF0CCEA", item: { count: 1, id: "alexsmobs:bear_dust" } }
+		{ id: "3BE51A56B644F4EA", item: { count: 1, id: "minecraft:cookie" } }
+		{
+			id: "401F26EFAD2CBAD4"
+			type: "xp_levels"
+			xp_levels: 1
+		}
+		{
+			command: "/summon minecraft:giant"
+			id: "40B734D579D0F681"
+			silent: true
+			type: "command"
+		}
+		{ id: "3481A59C3333E084", item: { components: { "minecraft:custom_name": "\"CRAZY HAMBURGER\"", "someassemblyrequired:sandwich_contents": [ { count: 1, id: "someassemblyrequired:burger_bun_bottom" }, { count: 1, id: "alexsmobs:cooked_kangaroo_meat" }, { count: 1, id: "mynethersdelight:bullet_pepper" }, { count: 1, id: "minecraft:dried_kelp" }, { count: 1, id: "alexsmobs:fish_oil" }, { components: { "minecraft:potion_contents": { potion: "minecraft:strong_strength" } }, count: 1, id: "minecraft:potion" }, { count: 1, id: "brewinandchewin:flaxen_cheese_wedge" }, { count: 1, id: "someassemblyrequired:burger_bun_top" } ] }, count: 1, id: "someassemblyrequired:sandwich" } }
+	]
+}

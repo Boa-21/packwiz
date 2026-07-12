@@ -1,0 +1,19 @@
+{
+	id: "081B5A164FD87AE7"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{ id: "16EDFD5B0A778ADC", item: { components: { "vista:cassette_tape": "vista:67" }, count: 1, id: "vista:cassette" } }
+		{ id: "48E1F89877F32971", item: { components: { "vista:cassette_tape": "vista:axolotl" }, count: 1, id: "vista:cassette" } }
+		{ id: "22FA9E55C1122F2B", item: { components: { "vista:cassette_tape": "vista:block_wave" }, count: 1, id: "vista:cassette" } }
+		{ id: "48D6BFA82B019DD8", item: { components: { "vista:cassette_tape": "vista:bonfire_steve" }, count: 1, id: "vista:cassette" } }
+		{ id: "4B6C8172AFC67704", item: { components: { "vista:cassette_tape": "vista:bounce" }, count: 1, id: "vista:cassette" } }
+		{ id: "7CE3738AC172B339", item: { components: { "vista:cassette_tape": "vista:channel_2" }, count: 1, id: "vista:cassette" } }
+		{ id: "65EA5CC68D8A3312", item: { components: { "vista:cassette_tape": "vista:frogs" }, count: 1, id: "vista:cassette" } }
+		{ id: "5B8E20C2F9C79C63", item: { components: { "vista:cassette_tape": "vista:maze3d" }, count: 1, id: "vista:cassette" } }
+		{ id: "704921122D167BF6", item: { components: { "vista:cassette_tape": "vista:mc_98" }, count: 1, id: "vista:cassette" } }
+		{ id: "23BE0B1799D7A0BD", item: { components: { "vista:cassette_tape": "vista:space_sniffer" }, count: 1, id: "vista:cassette" } }
+		{ id: "73987595A9AE0A70", item: { components: { "vista:cassette_tape": "vista:tower" }, count: 1, id: "vista:cassette" } }
+		{ id: "6503CF07462DF7A6", item: { components: { "vista:cassette_tape": "vista:us" }, count: 1, id: "vista:cassette" } }
+	]
+}

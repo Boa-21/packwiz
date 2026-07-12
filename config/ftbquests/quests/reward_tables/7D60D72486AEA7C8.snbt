@@ -1,0 +1,23 @@
+{
+	id: "7D60D72486AEA7C8"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{ id: "56A251893F71E28A", item: { components: { "etched:music_label": { author: "vlad_cel_mare", color: -12930086, title: "Custom Music" } }, count: 1, id: "etched:music_label" } }
+		{ id: "32124EF57B113C54", item: { components: { "etched:music_label": { author: "vlad_cel_mare", color: -3715395, title: "Custom Music" } }, count: 1, id: "etched:music_label" } }
+		{ id: "21C9EAC9F898CFFB", item: { components: { "etched:music_label": { author: "vlad_cel_mare", color: -8170446, title: "Custom Music" } }, count: 1, id: "etched:music_label" } }
+		{ id: "6BB02791081F7B93", item: { components: { "etched:music_label": { author: "vlad_cel_mare", color: -75715, title: "Custom Music" } }, count: 1, id: "etched:music_label" } }
+		{ id: "536A7B0291F601CC", item: { components: { "etched:music_label": { author: "vlad_cel_mare", color: -10585066, title: "Custom Music" } }, count: 1, id: "etched:music_label" } }
+		{ id: "2C3E18DC07A1AD0E", item: { components: { "etched:music_label": { author: "vlad_cel_mare", color: -816214, title: "Custom Music" } }, count: 1, id: "etched:music_label" } }
+		{ id: "344673AE8A9925A8", item: { components: { "etched:music_label": { author: "vlad_cel_mare", color: -15295332, title: "Custom Music" } }, count: 1, id: "etched:music_label" } }
+		{ id: "50C8D80369D7230B", item: { components: { "etched:music_label": { author: "vlad_cel_mare", color: -6447721, title: "Custom Music" } }, count: 1, id: "etched:music_label" } }
+		{ id: "4B8F8C15AB3D7469", item: { components: { "etched:music_label": { author: "vlad_cel_mare", color: -14869215, title: "Custom Music" } }, count: 1, id: "etched:music_label" } }
+		{ id: "0DD4813F2C126CBA", item: { components: { "etched:music_label": { author: "vlad_cel_mare", color: -5231066, title: "Custom Music" } }, count: 1, id: "etched:music_label" } }
+		{ id: "33BBD3D729B33C27", item: { components: { "etched:music_label": { author: "vlad_cel_mare", color: -8337633, title: "Custom Music" } }, count: 1, id: "etched:music_label" } }
+		{ id: "79FCD7B5389DC442", item: { components: { "etched:music_label": { author: "vlad_cel_mare", color: -12827478, title: "Custom Music" } }, count: 1, id: "etched:music_label" } }
+		{ id: "20680391460F0EE1", item: { components: { "etched:music_label": { author: "vlad_cel_mare", color: -393218, title: "Custom Music" } }, count: 1, id: "etched:music_label" } }
+		{ id: "444EBDC3941E81F4", item: { components: { "etched:music_label": { author: "vlad_cel_mare", color: -12103854, title: "Custom Music" } }, count: 1, id: "etched:music_label" } }
+		{ id: "147069973EFDC894", item: { components: { "etched:music_label": { author: "vlad_cel_mare", color: -7785800, title: "Custom Music" } }, count: 1, id: "etched:music_label" } }
+		{ id: "483E85DF2BCDEBCA", item: { components: { "etched:music_label": { author: "vlad_cel_mare", color: -425955, title: "Custom Music" } }, count: 1, id: "etched:music_label" } }
+	]
+}

@@ -1,0 +1,14 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"alexsmobs:enderiophage_rocket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:potion","components":{"minecraft:potion_contents":{"potion":"yungscavebiomes:frost"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:potion","components":{"minecraft:potion_contents":{"potion":"yungscavebiomes:strong_frost"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"neapolitan:chocolate_ice_cream"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"someassemblyrequired:toasted_bread_slice"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"displaydelight:small_food_plate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"displaydelight:food_plate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"displaydelight:plated_chicken_sandwich"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_jewelry:moonstone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"alexsmobs:maraca"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"alexsmobs:animal_dictionary"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,24 @@
+{
+	id: "2F8B16A0E2AFF14E"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ id: "0B5BFFCE6DFA3602", item: { count: 1, id: "minecraft:bundle" } }
+		{ id: "35A5734F7BC112FE", item: { count: 1, id: "minecraft:white_bundle" } }
+		{ id: "4F167CCED7027B8D", item: { count: 1, id: "minecraft:light_gray_bundle" } }
+		{ id: "5FAD0AC0253BC009", item: { count: 1, id: "minecraft:gray_bundle" } }
+		{ id: "2100EBCFC015C302", item: { count: 1, id: "minecraft:black_bundle" } }
+		{ id: "4CE314DADF7884B7", item: { count: 1, id: "minecraft:brown_bundle" } }
+		{ id: "5C25839C97A6496F", item: { count: 1, id: "minecraft:red_bundle" } }
+		{ id: "565B0F3E7A142EB6", item: { count: 1, id: "minecraft:orange_bundle" } }
+		{ id: "7C33C1008237A882", item: { count: 1, id: "minecraft:yellow_bundle" } }
+		{ id: "2AFECBE01C8D192E", item: { count: 1, id: "minecraft:lime_bundle" } }
+		{ id: "1CE360439A1E700A", item: { count: 1, id: "minecraft:green_bundle" } }
+		{ id: "5CC70DF85F06202F", item: { count: 1, id: "minecraft:cyan_bundle" } }
+		{ id: "0F9D5377E3307FB9", item: { count: 1, id: "minecraft:light_blue_bundle" } }
+		{ id: "11DD1192EA7E9ED4", item: { count: 1, id: "minecraft:blue_bundle" } }
+		{ id: "1E72B5EC8B8546D5", item: { count: 1, id: "minecraft:purple_bundle" } }
+		{ id: "14B63A5777D24C02", item: { count: 1, id: "minecraft:magenta_bundle" } }
+		{ id: "5D8B9DBE1F114E26", item: { count: 1, id: "minecraft:pink_bundle" } }
+	]
+}

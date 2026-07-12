@@ -1,0 +1,13 @@
+name = "Furniture Expanded"
+filename = "furnitureexpanded-neoforge-1.2+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "580211fe47c431e723b16acafeffc1ef5989433f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6320898
+project-id = 550478

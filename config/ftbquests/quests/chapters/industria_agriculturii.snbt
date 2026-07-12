@@ -1,0 +1,801 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "industria_agriculturii"
+	group: "7FB9E64DF1FD127E"
+	icon: {
+		id: "farmersdelight:tomato_seeds"
+	}
+	id: "03B667AD6F3E130E"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["713F2A964C4E25AB"]
+			icon: {
+				id: "farmersdelight:wild_carrots"
+			}
+			icon_scale: 1.1d
+			id: "1FE3B8FF205CEDCB"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "4A4BFB97CC5B829D"
+				observe_type: 1
+				timer: 0L
+				to_observe: "#farmersdelight:wild_crops"
+				type: "observation"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1FE3B8FF205CEDCB"]
+			id: "3CF6B777F49BF9D2"
+			tasks: [{
+				id: "77E3A8FC7DB22A8A"
+				item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:cocoa_beans)item(neapolitan:vanilla_pods)item(neapolitan:strawberries)item(neapolitan:banana)item(neapolitan:mint_leaves)item(neapolitan:adzuki_beans))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3CF6B777F49BF9D2"]
+			id: "0B2D2451C4489528"
+			tasks: [{
+				count: 4L
+				id: "7E54A5DD60513358"
+				item: { count: 1, id: "neapolitan:chocolate_bar" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3CF6B777F49BF9D2"]
+			id: "23E89027BFF12529"
+			tasks: [{
+				count: 4L
+				id: "55F0BECFE28FBEA0"
+				item: { count: 1, id: "neapolitan:dried_vanilla_pods" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3CF6B777F49BF9D2"]
+			id: "0E08F0B083A21E3E"
+			tasks: [{
+				count: 4L
+				id: "4ACA12F8A4418D87"
+				item: { count: 1, id: "neapolitan:strawberries" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3CF6B777F49BF9D2"]
+			id: "22260C45A686C286"
+			tasks: [{
+				count: 4L
+				id: "5CBA0F4066782D41"
+				item: { count: 1, id: "neapolitan:banana" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["3CF6B777F49BF9D2"]
+			id: "1A2C47AC5CE01596"
+			tasks: [{
+				count: 4L
+				id: "42AAE22917D48BC0"
+				item: { count: 1, id: "neapolitan:mint_leaves" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3CF6B777F49BF9D2"]
+			id: "1D4ABEBBD520AFD4"
+			tasks: [{
+				count: 4L
+				id: "1E9A1B7C0FED3437"
+				item: { count: 1, id: "neapolitan:adzuki_beans" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0B2D2451C4489528"]
+			id: "50C22029610A9D58"
+			tasks: [{
+				id: "11F8EAFACCFAF53F"
+				item: { count: 1, id: "neapolitan:chocolate_cake" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["23E89027BFF12529"]
+			id: "62C6CCA81B2E4618"
+			tasks: [{
+				id: "653FE98975077232"
+				item: { count: 1, id: "neapolitan:vanilla_cake" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0E08F0B083A21E3E"]
+			id: "23BCB54927C381DC"
+			tasks: [{
+				id: "725301E792FDDEF1"
+				item: { count: 1, id: "neapolitan:strawberry_cake" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["22260C45A686C286"]
+			id: "08FA54A28FAC02A8"
+			tasks: [{
+				id: "22C63799092CDDC5"
+				item: { count: 1, id: "neapolitan:banana_cake" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["1A2C47AC5CE01596"]
+			id: "2BE06FA0B971F8D5"
+			tasks: [{
+				id: "57FB29A962CFA2FA"
+				item: { count: 1, id: "neapolitan:mint_cake" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["1D4ABEBBD520AFD4"]
+			id: "34F258AD82EBEF8F"
+			tasks: [{
+				id: "1F694BC7B54E56AC"
+				item: { count: 1, id: "neapolitan:adzuki_cake" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"0B2D2451C4489528"
+				"23E89027BFF12529"
+			]
+			id: "60A7E3286698CFDB"
+			tasks: [{
+				id: "2352554971EF08B1"
+				item: { count: 1, id: "neapolitan:vanilla_chocolate_fingers" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"0B2D2451C4489528"
+				"0E08F0B083A21E3E"
+			]
+			id: "3600A5296728E806"
+			tasks: [{
+				id: "02122359C7120D41"
+				item: { count: 1, id: "neapolitan:chocolate_strawberries" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0B2D2451C4489528"]
+			id: "7D218DA74F43FD96"
+			tasks: [{
+				id: "406D5FA4FF985061"
+				item: { count: 1, id: "neapolitan:chocolate_ice_cream" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["0E08F0B083A21E3E"]
+			id: "14AFBFB2C918EE0E"
+			tasks: [{
+				id: "471C7E9F794BCF8E"
+				item: { count: 1, id: "neapolitan:strawberry_ice_cream" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["23E89027BFF12529"]
+			id: "1C752CE913D5BA30"
+			tasks: [{
+				id: "4ACDA48D4FC69DFC"
+				item: { count: 1, id: "neapolitan:vanilla_ice_cream" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["1A2C47AC5CE01596"]
+			id: "5537B6505DA5F89E"
+			tasks: [{
+				id: "71CC8E5E3928C91D"
+				item: { count: 1, id: "neapolitan:mint_ice_cream" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["1D4ABEBBD520AFD4"]
+			id: "3A281574B1AA88C1"
+			tasks: [{
+				id: "5BEC28AA62673752"
+				item: { count: 1, id: "neapolitan:adzuki_ice_cream" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["22260C45A686C286"]
+			id: "4564B63D23294FED"
+			tasks: [{
+				id: "7E2016DCB25B6E16"
+				item: { count: 1, id: "neapolitan:banana_ice_cream" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"7D218DA74F43FD96"
+				"1C752CE913D5BA30"
+				"14AFBFB2C918EE0E"
+			]
+			id: "6F475A4D1A97A2F9"
+			tasks: [{
+				id: "0A01D7E267277950"
+				item: { count: 1, id: "neapolitan:neapolitan_ice_cream" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["1D4ABEBBD520AFD4"]
+			id: "049EA85AE7216034"
+			tasks: [{
+				id: "5E72346F5775A978"
+				item: { count: 1, id: "neapolitan:adzuki_bun" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["22260C45A686C286"]
+			id: "0FA7B6F0A22BD879"
+			tasks: [{
+				id: "0850A1BD26297E74"
+				item: { count: 1, id: "neapolitan:banana_bread" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1A2C47AC5CE01596"]
+			id: "2E7CF0155F0026BE"
+			tasks: [{
+				id: "637ED0BC5DD57247"
+				item: { count: 1, id: "neapolitan:mint_candies" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["1FE3B8FF205CEDCB"]
+			id: "51CFAF08A4FE7062"
+			tasks: [{
+				count: 4L
+				id: "0CCD91FD28A26EEE"
+				item: { count: 1, id: "minecraft:potato" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1FE3B8FF205CEDCB"]
+			id: "23E98AE5F3B21197"
+			tasks: [{
+				count: 4L
+				id: "1E635DC400B918B5"
+				item: { count: 1, id: "minecraft:carrot" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1FE3B8FF205CEDCB"]
+			id: "0B8AF0105D589F61"
+			tasks: [{
+				count: 4L
+				id: "03EDD4E8C156F2DF"
+				item: { count: 1, id: "minecraft:wheat_seeds" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1FE3B8FF205CEDCB"]
+			id: "5CA11F91B94E0AFB"
+			tasks: [{
+				count: 4L
+				id: "69E02AE31B7AA69C"
+				item: { count: 1, id: "minecraft:beetroot_seeds" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1FE3B8FF205CEDCB"]
+			id: "3400ECC93AD62ADC"
+			tasks: [{
+				count: 4L
+				id: "471413EA28335CCC"
+				item: { count: 1, id: "berry_good:sweet_berry_pips" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1FE3B8FF205CEDCB"]
+			id: "138F184396C98CB5"
+			tasks: [{
+				count: 4L
+				id: "732CF70167C58AF0"
+				item: { count: 1, id: "berry_good:glow_berry_pips" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1FE3B8FF205CEDCB"]
+			id: "4F7CA21B44810190"
+			tasks: [{
+				count: 4L
+				id: "3CBDFBE6617C62DA"
+				item: { count: 1, id: "minecraft:melon_seeds" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1FE3B8FF205CEDCB"]
+			id: "6E221055EBA06E6D"
+			tasks: [{
+				count: 4L
+				id: "440C01DC5F4018C9"
+				item: { count: 1, id: "minecraft:pumpkin_seeds" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1FE3B8FF205CEDCB"]
+			id: "79DE378E9765920D"
+			tasks: [{
+				id: "2A79962B19432BF4"
+				item: { components: { "ftbfiltersystem:filter": "or(item(farmersdelight:rice)item(farmersdelight:tomato)item(farmersdelight:cabbage)item(farmersdelight:onion))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1FE3B8FF205CEDCB"]
+			id: "6576654150FFB6B4"
+			tasks: [{
+				id: "04702FD2D9EB7135"
+				item: { count: 1, id: "astikorcartsredux:wheel" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["79DE378E9765920D"]
+			id: "482D9F0FBBAF9FF7"
+			tasks: [{
+				count: 4L
+				id: "45FDD6C745D3AF3F"
+				item: { count: 1, id: "farmersdelight:cabbage" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["79DE378E9765920D"]
+			id: "5677F8D2E7EC4D62"
+			tasks: [{
+				count: 4L
+				id: "74F8DF4305BFD0F3"
+				item: { count: 1, id: "farmersdelight:rice" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["79DE378E9765920D"]
+			id: "2363BBD861773030"
+			tasks: [{
+				count: 4L
+				id: "6994D1C7A53CBA44"
+				item: { count: 1, id: "farmersdelight:onion" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["79DE378E9765920D"]
+			id: "0495EDFC560AA24D"
+			tasks: [{
+				count: 4L
+				id: "44FDFCCD4F4633DB"
+				item: { count: 1, id: "farmersdelight:tomato" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["482D9F0FBBAF9FF7"]
+			id: "5B48B324AC665859"
+			tasks: [{
+				id: "7F2A6A163931A0FA"
+				item: { count: 1, id: "farmersdelight:cabbage_rolls" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["482D9F0FBBAF9FF7"]
+			id: "06D654ABCFE29604"
+			tasks: [{
+				id: "3A6B922EB57FE993"
+				item: { count: 1, id: "farmersdelight:chicken_sandwich" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0495EDFC560AA24D"]
+			id: "6983CA9C58D400C1"
+			tasks: [{
+				id: "6276748D231C8BD2"
+				item: { count: 1, id: "farmersdelight:tomato_sauce" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"0495EDFC560AA24D"
+				"482D9F0FBBAF9FF7"
+			]
+			id: "796106122B9FD5E8"
+			tasks: [{
+				id: "0C254C50BEABEDDB"
+				item: { count: 1, id: "farmersdelight:mixed_salad" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0495EDFC560AA24D"]
+			id: "6C1ECCBDD4982D8F"
+			tasks: [{
+				id: "3A6D63FCA83E2DD8"
+				item: { count: 1, id: "farmersdelight:baked_cod_stew" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2363BBD861773030"]
+			id: "39513B35255E57FD"
+			tasks: [{
+				id: "2F81C198A07700BD"
+				item: { count: 1, id: "farmersdelight:shepherds_pie_block" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2363BBD861773030"]
+			id: "2A2B25439D2C56A0"
+			tasks: [{
+				id: "02F32C515A8BD564"
+				item: { count: 1, id: "farmersdelight:onion_soup" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"2363BBD861773030"
+				"5677F8D2E7EC4D62"
+			]
+			id: "4FE36BACCB777890"
+			tasks: [{
+				id: "2F8BA235004F0ECF"
+				item: { count: 1, id: "farmersdelight:steak_and_potatoes" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5677F8D2E7EC4D62"]
+			id: "4A3E5BCDCF0C43CE"
+			tasks: [{
+				id: "19D44BDCE7EF534B"
+				item: { count: 1, id: "farmersdelight:mushroom_rice" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5677F8D2E7EC4D62"]
+			id: "7C5EE865444B0577"
+			tasks: [{
+				id: "34D370AEC8FDF2E6"
+				item: { count: 1, id: "farmersdelight:cooked_rice" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"5677F8D2E7EC4D62"
+				"0495EDFC560AA24D"
+			]
+			id: "6BDF07797E09A4B6"
+			tasks: [{
+				id: "64AC1EB8C9ADF661"
+				item: { count: 1, id: "farmersdelight:roasted_mutton_chops" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"482D9F0FBBAF9FF7"
+				"2363BBD861773030"
+			]
+			id: "7FCBE09F0F28DED7"
+			tasks: [{
+				id: "06B8B597337FCF1F"
+				item: { count: 1, id: "farmersdelight:grilled_salmon" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6576654150FFB6B4"]
+			id: "063DA8EF22708955"
+			tasks: [{
+				id: "54E93ED36ED15187"
+				item: { components: { "ftbfiltersystem:filter": "or(item(astikorcartsredux:oak_plow)item(astikorcartsredux:spruce_plow)item(astikorcartsredux:birch_plow)item(astikorcartsredux:acacia_plow)item(astikorcartsredux:cherry_plow)item(astikorcartsredux:jungle_plow)item(astikorcartsredux:dark_oak_plow)item(astikorcartsredux:crimson_plow)item(astikorcartsredux:warped_plow)item(astikorcartsredux:mangrove_plow)item(astikorcartsredux:bamboo_plow))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["6576654150FFB6B4"]
+			id: "4B977C0CCA2F0EA2"
+			tasks: [{
+				id: "10EDD0A079D27054"
+				item: { components: { "ftbfiltersystem:filter": "or(item(astikorcartsredux:oak_reaper)item(astikorcartsredux:spruce_reaper)item(astikorcartsredux:birch_reaper)item(astikorcartsredux:acacia_reaper)item(astikorcartsredux:cherry_reaper)item(astikorcartsredux:jungle_reaper)item(astikorcartsredux:dark_oak_reaper)item(astikorcartsredux:crimson_reaper)item(astikorcartsredux:warped_reaper)item(astikorcartsredux:mangrove_reaper)item(astikorcartsredux:bamboo_reaper))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["6576654150FFB6B4"]
+			id: "436E2F74E8F73AA8"
+			tasks: [{
+				id: "3BC66E91A1E3CB10"
+				item: { components: { "ftbfiltersystem:filter": "or(item(astikorcartsredux:oak_seed_drill)item(astikorcartsredux:spruce_seed_drill)item(astikorcartsredux:birch_seed_drill)item(astikorcartsredux:acacia_seed_drill)item(astikorcartsredux:cherry_seed_drill)item(astikorcartsredux:jungle_seed_drill)item(astikorcartsredux:dark_oak_seed_drill)item(astikorcartsredux:crimson_seed_drill)item(astikorcartsredux:warped_seed_drill)item(astikorcartsredux:mangrove_seed_drill)item(astikorcartsredux:bamboo_seed_drill))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["1FE3B8FF205CEDCB"]
+			id: "101AB28CE62A8167"
+			tasks: [{
+				count: 2L
+				id: "7D2590EE998FC5FD"
+				item: { count: 1, id: "ecologics:coconut_slice" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1FE3B8FF205CEDCB"]
+			id: "13FC204259E32482"
+			tasks: [{
+				id: "515C9156504EFF5B"
+				item: { count: 1, id: "minecraft:honey_bottle" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3400ECC93AD62ADC"]
+			id: "2BA76BDE1A15C7EB"
+			tasks: [{
+				id: "7E919137ED912827"
+				item: { count: 1, id: "farmersdelight:sweet_berry_cheesecake" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["13FC204259E32482"]
+			id: "070B42F7BFA8A6FC"
+			tasks: [{
+				count: 8L
+				id: "245E1A8D181902D3"
+				item: { count: 1, id: "supplementaries:candy" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["101AB28CE62A8167"]
+			id: "25FE5A921462431B"
+			tasks: [{
+				id: "18F9826ABFC4EE71"
+				item: { count: 1, id: "ecologics:tropical_stew" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6E221055EBA06E6D"]
+			id: "11B6473DECB946E3"
+			tasks: [{
+				id: "3242A03C76DFAC25"
+				item: { count: 1, id: "farmersdelight:pumpkin_soup" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["138F184396C98CB5"]
+			id: "336882996EC87DC2"
+			tasks: [{
+				id: "795F19CADD7B5C2F"
+				item: { count: 1, id: "berry_good:glowgurt" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5CA11F91B94E0AFB"]
+			id: "589589699CE7C338"
+			tasks: [{
+				id: "3853D868093378F2"
+				item: { count: 1, id: "farmersdelight:vegetable_soup" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4F7CA21B44810190"]
+			id: "6485C13918ED9D6A"
+			tasks: [{
+				id: "2A63A3DC319F1A33"
+				item: { count: 1, id: "farmersdelight:melon_popsicle" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["23E98AE5F3B21197"]
+			id: "76AA0C4DE0D543D6"
+			tasks: [{
+				id: "31D485CA7CD1FBF8"
+				item: { count: 1, id: "farmersdelight:beef_stew" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["51CFAF08A4FE7062"]
+			id: "726ECE436BB8548C"
+			tasks: [{
+				id: "0A6EB2E8A69C9531"
+				item: { count: 1, id: "mynethersdelight:sausage_and_potatoes" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0B8AF0105D589F61"]
+			id: "435D72D8FE973C6A"
+			tasks: [{
+				id: "6C1B21BC2D879BBE"
+				item: { count: 1, id: "farmersdelight:noodle_soup" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.5d
+		}
+	]
+}

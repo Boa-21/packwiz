@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"magistuarmoryaddon:dark_gothic_chestplate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"magistuarmoryaddon:dark_proto_maximilian_chestplate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"magistuarmory:maximilian_helmet","components":{"minecraft:damage":288}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"magistuarmory:maximilian_helmet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:target"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

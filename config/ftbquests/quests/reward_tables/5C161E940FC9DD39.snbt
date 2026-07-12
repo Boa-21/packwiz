@@ -1,0 +1,20 @@
+{
+	id: "5C161E940FC9DD39"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ id: "0AD4534023486199", item: { count: 1, id: "backpacked:oak_backpack_shelf" } }
+		{ id: "350FE95F112F9BC2", item: { count: 1, id: "backpacked:spruce_backpack_shelf" } }
+		{ id: "439FCCDFDA1BE39C", item: { count: 1, id: "backpacked:birch_backpack_shelf" } }
+		{ id: "683D4E6D3BDCD82C", item: { count: 1, id: "backpacked:jungle_backpack_shelf" } }
+		{ id: "19465CEA3EB1B304", item: { count: 1, id: "backpacked:dark_oak_backpack_shelf" } }
+		{ id: "1BC61405D133762C", item: { count: 1, id: "backpacked:acacia_backpack_shelf" } }
+		{ id: "3B7F15A18AC01DD7", item: { count: 1, id: "backpacked:crimson_backpack_shelf" } }
+		{ id: "6BD26770335E484C", item: { count: 1, id: "backpacked:warped_backpack_shelf" } }
+		{ id: "6CC6B628FEEF0AF7", item: { count: 1, id: "backpacked:cherry_backpack_shelf" } }
+		{ id: "566CD3FF53707965", item: { count: 1, id: "everycomp:bp/ecologics/azalea_backpack_shelf" } }
+		{ id: "4DD9D0901EC7F0EC", item: { count: 1, id: "everycomp:bp/minecraft/pale_oak_backpack_shelf" } }
+		{ id: "53EC158313A94FD5", item: { count: 1, id: "everycomp:bp/ecologics/coconut_backpack_shelf" } }
+		{ id: "0DCCB4978B616D73", item: { count: 1, id: "everycomp:bp/ecologics/walnut_backpack_shelf" } }
+	]
+}

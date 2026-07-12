@@ -1,0 +1,13 @@
+name = "Vintage Animations"
+filename = "vintage_animations-neoforge-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d9f635b4a2b625b254de922c05e6af2e8657793f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6421735
+project-id = 1134994

@@ -1,0 +1,29 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "headhunting"
+	group: "06100DA905608A0A"
+	icon: {
+		components: {
+			"minecraft:custom_name": "\"vlad_cel_mare's Head\""
+			"minecraft:profile": {
+				id: [I;
+					173759037
+					1124945188
+					-1479654459
+					-442598370
+				]
+				name: "vlad_cel_mare"
+				properties: [{
+					name: "textures"
+					value: "ewogICJ0aW1lc3RhbXAiIDogMCwKICAicHJvZmlsZUlkIiA6ICIwYTViNWEzZDQzMGQ0ZDI0YTdjZTQzYzVlNTllN2MxZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2bGFkX2NlbF9tYXJlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYxODA1NTY0YmZhOWUzOGFlMWU4MTJhZTA1NTc5NTBhZDJkZmMzNDM0OTdiYzJmM2Y1NzRmYmI5MWIyNGI2N2IiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZmQ1NTNiMzkzNThhMjRlZGZlM2I4YTlhOTM5ZmE1ZmE0ZmFhNGQ5YTljM2Q2YWY4ZWFmYjM3N2ZhMDVjMmJiIgogICAgfQogIH0KfQ=="
+				}]
+			}
+		}
+		id: "minecraft:player_head"
+	}
+	id: "0793E89DDAB33A32"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

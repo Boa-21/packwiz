@@ -1,0 +1,13 @@
+name = "Natural Waters"
+filename = "NaturalWaters-v21.1.0-mc1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2888f67b71cd7ae7c4291a571749cb5a7e462c68"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8127569
+project-id = 1367853

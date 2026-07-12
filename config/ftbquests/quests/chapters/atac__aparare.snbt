@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "atac__aparare"
+	group: "19CE5F7566B3EAD9"
+	icon: {
+		id: "mowziesmobs:wrought_axe"
+	}
+	id: "4A18C29BC6FF3024"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

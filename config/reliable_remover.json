@@ -1,0 +1,25 @@
+{
+  "showAttackMessage": true,
+  "showHandSwingMessage": true,
+  "showRemovalMessage": true,
+  "removeItemsFromCreativeTabs": true,
+  "removeItemsFromEmi": true,
+  "removeItemsFromInventories": true,
+  "removeItemsOnInventoryOpen": true,
+  "removeDroppedItems": true,
+  "removeItemsFromLootChests": true,
+  "removeItemsFromStorage": true,
+  "removeItemsFromInfoTabs": true,
+  "removeItemsFromTrades": true,
+  "removeMobEquipment": true,
+  "removeCnmChildren": true,
+  "enableEmiRemoval": true,
+  "showEmiToast": true,
+  "showEmiChatMessages": true,
+  "reloadAfterRemoval": true,
+  "blacklistedItems": [
+    "woodworks:sawmill",
+    "relics:experience_disperser",
+    "vista:viewfinder"
+  ]
+}

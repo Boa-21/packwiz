@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"apotheosis:sigil_of_supremacy"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:gem_fused_slate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:sigil_of_rebirth"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

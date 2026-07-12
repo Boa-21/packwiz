@@ -1,0 +1,48 @@
+{
+	id: "3CC7547D1CF1A6FF"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{
+			id: "64A77CADACEFF9D5"
+			item: {
+				count: 1
+				id: "minecraft:leather_helmet"
+			}
+			weight: 1.1f
+		}
+		{
+			id: "692349C698AAE2B0"
+			item: {
+				count: 1
+				id: "minecraft:leather_chestplate"
+			}
+			weight: 1.1f
+		}
+		{
+			id: "3B932F1E31DD4F62"
+			item: {
+				count: 1
+				id: "minecraft:leather_leggings"
+			}
+			weight: 1.1f
+		}
+		{
+			id: "79455872BE409462"
+			item: {
+				count: 1
+				id: "minecraft:leather_boots"
+			}
+			weight: 1.1f
+		}
+		{
+			count: 8
+			id: "02BB98F11E4B00CC"
+			item: {
+				count: 1
+				id: "minecraft:leather"
+			}
+			weight: 0.6f
+		}
+	]
+}

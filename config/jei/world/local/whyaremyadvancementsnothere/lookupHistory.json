@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"supplementaries:fire_pit"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"supplementaries:lumisene_bottle"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

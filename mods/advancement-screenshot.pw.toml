@@ -1,0 +1,13 @@
+name = "Advancement Screenshot"
+filename = "advancementscreenshot-1.21.1-5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79554a35b1839beba5442231621b8b5c0adbc7cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6186758
+project-id = 414086

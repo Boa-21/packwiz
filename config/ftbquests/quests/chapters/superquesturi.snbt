@@ -1,0 +1,90 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "superquesturi"
+	group: "06100DA905608A0A"
+	hide_quest_until_deps_complete: true
+	icon: {
+		id: "simplehats:dragonskullender"
+	}
+	id: "637783A7B6791CB0"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "minecraft:wither"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4A3B940D8A77B449"
+			rewards: [{
+				id: "42E01E838F3BD188"
+				item: {
+					components: {
+						"minecraft:custom_name": "\"Ochelari Suspecti Si Secreti\""
+					}
+					count: 1
+					id: "simplehats:sunglassesbig"
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				consume_items: true
+				id: "5FBFA7AC3204DEE2"
+				item: { count: 1, id: "minecraft:nether_star" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["122B4F01A34336D2"]
+			hide_until_deps_complete: true
+			id: "67839453E9970120"
+			rewards: [{
+				auto: "invisible"
+				command: "/give @a furnitureexpanded:bathtub 2048"
+				id: "4E06BAA7A6C6476D"
+				silent: true
+				type: "command"
+			}]
+			size: 2.0d
+			tasks: [{
+				count: 2048L
+				id: "6C8C240049D850EF"
+				item: { count: 1, id: "furnitureexpanded:bathtub" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["4A3B940D8A77B449"]
+			hide_until_deps_complete: true
+			id: "122B4F01A34336D2"
+			rewards: [{
+				id: "1CB27DCE02D6DE95"
+				item: {
+					count: 1
+					id: "minecraft:water_bucket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "56701AC642ED1063"
+				item: { count: 1, id: "furnitureexpanded:bathtub" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+	]
+}

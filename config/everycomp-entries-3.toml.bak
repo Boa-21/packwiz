@@ -1,0 +1,44 @@
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+		[types.wood_type.ecologics]
+			flowering_azalea = true
+			azalea = true
+			coconut = true
+			walnut = true
+
+		[types.wood_type.mynethersdelight]
+			powdery = true
+
+		[types.leaves_type.ecologics]
+			coconut = true
+			walnut = true
+
+		[types.cake.neapolitan]
+			vanilla_cake = true
+			chocolate_cake = true
+			strawberry_cake = true
+			banana_cake = true
+			mint_cake = true
+			adzuki_cake = true
+
+#Disables specific entries
+[entries]
+
+		[entries.wood_type.woodworks]
+			chest = true
+			beehive = true
+			ladder = true
+			trapped_chest = true
+			boards = true
+			bookshelf = true
+			chiseled_bookshelf = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+		[entries.wood_type.backpacked]
+			backpack_shelf = true
+
+		[entries.leaves_type.woodworks]
+			leaf_pile = true
