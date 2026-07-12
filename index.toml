@@ -2798,7 +2798,7 @@ metafile = true
 
 [[files]]
 file = "mods/clear-fog.pw.toml"
-hash = "67a4ddeabb141f54f03fbf4de1b57db2104770c685cb8acb594c7d14d446bd47"
+hash = "41b5b7318f41b732df7dcf9fe000217e4367aa29fb691e7df2e7e50dc3f2f73d"
 metafile = true
 
 [[files]]
@@ -3566,7 +3566,7 @@ metafile = true
 
 [[files]]
 file = "mods/vintage-animations.pw.toml"
-hash = "0fdcf19a3ff21bf176efb2c43fee67d479298613540c6e82fae20b40e5991b8b"
+hash = "ee6c6eaaa428b44da8862f979eafd112e8cea7c0de1784f1d9b52165d9af432c"
 metafile = true
 
 [[files]]
