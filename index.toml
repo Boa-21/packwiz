@@ -2653,23 +2653,8 @@ hash = "92e10cd201d6d2e9b9c3ff7621d928bc4ec517c9d913182b8b59de24ff7df511"
 metafile = true
 
 [[files]]
-file = "mods/apotheosis.pw.toml"
-hash = "19ff815947cff9c152676ef8d97e6df80487be339fee038ac1be7299294b415a"
-metafile = true
-
-[[files]]
 file = "mods/apothic-attributes.pw.toml"
 hash = "b0106fb218cdd8303d9a22f4647248cb63bb2099213f14581f6f432bc482db34"
-metafile = true
-
-[[files]]
-file = "mods/apothic-enchanting.pw.toml"
-hash = "789f5ce98baf6da8bdb174d904cb3025363db3b8833eb7b89a73a2cead8f0325"
-metafile = true
-
-[[files]]
-file = "mods/apothic-spawners.pw.toml"
-hash = "dca47bb0d93ec997f00667de379fa254fcb1986747bd8045d340b5ca0857c153"
 metafile = true
 
 [[files]]
@@ -2793,11 +2778,6 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "d9b4c090ae096a5dbf82824edba9dfddc41b9ab384a4150333da290138aafed9"
-metafile = true
-
-[[files]]
-file = "mods/chatanimation.pw.toml"
-hash = "fb6053d744a044805a64cb7d4a1ef73e1d005f888336d02782840a4a5a386319"
 metafile = true
 
 [[files]]
@@ -2954,21 +2934,6 @@ hash = "359e68603f22e47e32c1136dee0c1785929f9753b5bcb2ab62ce022abc025ad9"
 metafile = true
 
 [[files]]
-file = "mods/emi-enchanting.pw.toml"
-hash = "e7d97e13d1db5e8042b6c9c345eea19af21a83ba4be4c4b007935c1bfc4152f2"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "0e5f2a07e792b1ca8f435874c889a44bb2c3ebd47f85b5179fe6a737e28c647b"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "f9c73f7bcce41f98e3a92be99e60ce4d866bf17c951b74bc6562fd1eea258b5f"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "b40467ca9836bf96ddb0c43ba33ac3cfd9486cfca47e874790c58c881d13ba81"
 metafile = true
@@ -3016,16 +2981,6 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "c2f767bf7ca4486598a9c5c42d0e0158a42075d665690b0c5f6d999f76e23444"
-metafile = true
-
-[[files]]
-file = "mods/extra-mod-integrations.pw.toml"
-hash = "f7374b9287d3a54809ffad900f83fc3628c487dc1d732199cbc319b07648b6d0"
-metafile = true
-
-[[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "c8726bafd63c03eb11ee22a600eb15e257c51589101851cfb071c5bcbed65110"
 metafile = true
 
 [[files]]
@@ -3386,11 +3341,6 @@ hash = "e8cf4448ccc792f9c856a1bb937d58b1f9c14d46cb49def6bd49a83bb5c2a991"
 metafile = true
 
 [[files]]
-file = "mods/origins-classes-neoforge.pw.toml"
-hash = "a33ee53ffd243319d8685aae03c2302b23318887c9f131d70c6793c075ddb844"
-metafile = true
-
-[[files]]
 file = "mods/origins-neoforge.pw.toml"
 hash = "b3a6d76abafecc9caf08cf48e9769c34d276991122a8e5dd1bde73b67bb50773"
 metafile = true
@@ -3626,11 +3576,6 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "f39fe2b75eae7f4a7f7d2af1d5527efe879b1b32d0d576f7fb5d8560d5f43892"
-metafile = true
-
-[[files]]
-file = "mods/waystones.pw.toml"
-hash = "69c32c61100e9723ad46d04624f999c7e3d106cd86d6660cb7159d9760bc1623"
 metafile = true
 
 [[files]]
