@@ -2246,7 +2246,7 @@ hash = "1c7d8701a73d4d79617ef158a708611ac331d622ce693a73da2ce891bcb36d49"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "05a8a601996936e1d56d7af4b68c136d11ea45d70706372d05cd46d4f30c500e"
+hash = "8c2d71f458104f363f5654090c855f151a21eb25c4cd6cf18d080b675f78c743"
 
 [[files]]
 file = "config/waystones-common.toml"
