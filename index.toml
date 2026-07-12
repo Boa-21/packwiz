@@ -2843,6 +2843,11 @@ hash = "412ad936aef0f71718604c854aafab1a5fa513b8641b1ddda3db9414d2bdcf19"
 metafile = true
 
 [[files]]
+file = "mods/cultural-delights.pw.toml"
+hash = "7dc4daef7f7fbd4f89aa502f54ec24049a60c016e47d2b37776f3905623e3578"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "0eaf99546b07ea456f4b8f198b646a06f5b9446fb735494f034871f70d36c569"
 metafile = true
@@ -3072,6 +3077,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "5986714531786e34c365eb19f7be7316d24071a98840cf2f9426fe7819f6bf7a"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "ec8432e5a8dcdaeb7eed2086c52916c41e6311258ae3f2b0aec022d3892c23b7"
 metafile = true
 
 [[files]]
@@ -3426,6 +3436,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "778e3a352f5ae20720c5692b53fd585d5ea6163dcb8494193deef8889235fe56"
+metafile = true
+
+[[files]]
+file = "mods/romanians-delight.pw.toml"
+hash = "fd1f9845dc89e3f367ec16e9349f5b57b1025e2b3fafa212031e4f93779090d7"
 metafile = true
 
 [[files]]

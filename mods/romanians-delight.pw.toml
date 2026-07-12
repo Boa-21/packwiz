@@ -1,0 +1,13 @@
+name = "Romanian's Delight"
+filename = "romaniansdelight-0.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0102d0d47342cf9754f55664534f34965049ffbc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8377814
+project-id = 1060082
