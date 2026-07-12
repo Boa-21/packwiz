@@ -2573,10 +2573,6 @@ file = "mods/.connector/temp/voxy-1.21.1-NeoForge$xz-1.10.jar.input"
 hash = "a582e796b67f34f47fecafc0594c1312b5b7c90d27e619ccba60ddc7d3b68ff7"
 
 [[files]]
-file = "mods/DAP ur HOMIE (Bully ur Homie).jar.disabled"
-hash = "93c26d1fc5f071afa39bd529e931616295c4ea83ac3a33a1bf1b6fd7584ab03f"
-
-[[files]]
 file = "mods/Placebo-1.21.1-9.9.1.jar"
 hash = "2ecd84c41b65720df4f0e324612ada33fb3c916f7979ed94c8f7c5900f430f4f"
 
@@ -2866,7 +2862,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "ff7c8b3ccce3bfa3bb5e80293e928ad463db7fb4efee024ce72ac0fa8fd19567"
+hash = "412ad936aef0f71718604c854aafab1a5fa513b8641b1ddda3db9414d2bdcf19"
 metafile = true
 
 [[files]]
@@ -2975,7 +2971,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "2c33c9094bed484dd0819b9a33f8725c2bf94e778d0cfa8d72b25fe16b9aa17d"
+hash = "46d0a55e37f5df2cac89f196c28e5022c889714f8824f29b69f6578a95b08e86"
 metafile = true
 
 [[files]]
@@ -3337,7 +3333,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-third-person.pw.toml"
-hash = "e8cf4448ccc792f9c856a1bb937d58b1f9c14d46cb49def6bd49a83bb5c2a991"
+hash = "d05474a0992b03b9bc60bb9792135b4a38cf382c19f3603ca7b09bf592710412"
 metafile = true
 
 [[files]]
@@ -3397,7 +3393,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "26126d788b0c9a20252237b3ff9218218a5626c864af8cb35d972e58d75a6c4f"
+hash = "260b92538ce9610024583c6c92b8c2f99e055f5196d0ed356bebad374ab2b811"
 metafile = true
 
 [[files]]
