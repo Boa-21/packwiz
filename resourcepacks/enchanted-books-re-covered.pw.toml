@@ -1,13 +1,13 @@
 name = "Enchanted Books: Re-covered"
 filename = "Re-covered.zip"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "89d7bc0513b2a5b0127abe111db3834a35181fe9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/6gN7YVi7/versions/Pl7b1oxK/Re-covered.zip"
+hash-format = "sha512"
+hash = "9a85d235852dfad31575c753daa8088a3dcd7f26cef4d92ff77f75463e89d8b8f09abe109dda609d7ec6a58ae57f1611463bf552fbdbe9a6a9388e6e83a40c2f"
 
 [update]
-[update.curseforge]
-file-id = 7673556
-project-id = 1232814
+[update.modrinth]
+mod-id = "6gN7YVi7"
+version = "Pl7b1oxK"
