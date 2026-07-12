@@ -1,0 +1,128 @@
+{
+	id: "054718E0D081A6B0"
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{
+			count: 2
+			id: "382063EA5744D5FB"
+			item: {
+				count: 1
+				id: "farmersdelight:chicken_cuts"
+			}
+		}
+		{
+			count: 2
+			id: "7B02E05765C0A2D2"
+			item: {
+				count: 1
+				id: "mynethersdelight:minced_strider"
+			}
+		}
+		{
+			count: 2
+			id: "27B0EDD5521C2B6C"
+			item: {
+				count: 1
+				id: "farmersdelight:pumpkin_slice"
+			}
+		}
+		{
+			count: 2
+			id: "556EDBAC370E4B36"
+			item: {
+				count: 1
+				id: "mynethersdelight:hoglin_sausage"
+			}
+		}
+		{
+			count: 2
+			id: "00B04AA2626B7295"
+			item: {
+				count: 1
+				id: "farmersdelight:cabbage_leaf"
+			}
+		}
+		{
+			count: 2
+			id: "15BD75AFF2893943"
+			item: {
+				count: 1
+				id: "farmersdelight:minced_beef"
+			}
+		}
+		{
+			count: 2
+			id: "06D7041F190DBF71"
+			item: {
+				count: 1
+				id: "farmersdelight:bacon"
+			}
+		}
+		{
+			count: 2
+			id: "3AD77058453BCBDF"
+			item: {
+				count: 1
+				id: "farmersdelight:salmon_slice"
+			}
+		}
+		{
+			count: 2
+			id: "5E439AD32BD2EE7A"
+			item: {
+				count: 1
+				id: "farmersdelight:cod_slice"
+			}
+		}
+		{
+			count: 2
+			id: "1C19944F79B92AA4"
+			item: {
+				count: 1
+				id: "someassemblyrequired:apple_slices"
+			}
+		}
+		{
+			count: 2
+			id: "59F415E9B076F1C8"
+			item: {
+				count: 1
+				id: "someassemblyrequired:golden_apple_slices"
+			}
+		}
+		{ id: "5E7397EF35913C70", item: { count: 1, id: "someassemblyrequired:enchanted_golden_apple_slices" } }
+		{
+			count: 2
+			id: "6E5E7ECEC96D2D2C"
+			item: {
+				count: 1
+				id: "someassemblyrequired:chopped_carrot"
+			}
+		}
+		{
+			count: 2
+			id: "7F2B486FCB6F59BB"
+			item: {
+				count: 1
+				id: "someassemblyrequired:chopped_golden_carrot"
+			}
+		}
+		{
+			count: 2
+			id: "1DDF179BB57AABB2"
+			item: {
+				count: 1
+				id: "someassemblyrequired:chopped_beetroot"
+			}
+		}
+		{
+			count: 2
+			id: "0554DD075CF56563"
+			item: {
+				count: 1
+				id: "mynethersdelight:pepper_powder"
+			}
+		}
+	]
+}

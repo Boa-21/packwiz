@@ -2,12 +2,12 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "vanatoare"
-	group: "19CE5F7566B3EAD9"
+	group: "704A45306926EF15"
 	icon: {
 		id: "mynethersdelight:hoglin_trophy"
 	}
 	id: "1844B5C9255712CA"
-	order_index: 1
+	order_index: 2
 	quest_links: [ ]
 	quests: [ ]
 }

@@ -12,19 +12,54 @@
 	chapter_group.06100DA905608A0A.title: "Speciale..."
 	chapter_group.14741A9C28A83F13.title: "Inceputuri"
 	chapter_group.19CE5F7566B3EAD9.title: "Lupta"
+	chapter_group.704A45306926EF15.title: "Coming Soon"
 	chapter_group.7FB9E64DF1FD127E.title: "Natura si Mancare"
 	quest.005DF56CB83B9224.quest_desc: ["Modul Etched adauga music discuri custom, pe care le obtii bagand un music disc la cuptor, pe care apoi il poti completa la un Etching Table cu un Label si un link de pe Soundcloud sau Bandcamp, dupa care il veti putea folosi ca orice music disc normal intr-un jukebox, boombox sau chiar radio."]
 	quest.005DF56CB83B9224.quest_subtitle: "Muzica ta... In joc!!"
 	quest.005DF56CB83B9224.title: "Music discuri custom!"
 	quest.006624E8CA53A7D4.quest_desc: ["Modul \"Vista\" adauga televizoare pe care poti afisa diferite casete video odata ce sunt activate cu redstone. Televizoarele pot fi conectate pentru a crea un televizor mai mare, si, daca obtii un \"URL Cassette\"........"]
+	quest.006624E8CA53A7D4.quest_subtitle: "Acum in color!"
 	quest.0151CED43824DD9B.quest_desc: ["Modul JEI (Just Enough Items) iti permite sa vezi toate itemele din joc in dreapta inventarului, cu optiunile de scroll, search si bookmark(cu \"A\"). Cel mai util lucru, insa, este faptul ca daca dati hover cu mouse-ul peste orice item, apasand \"R\" va arata cum se crafteaza acesta, iar apasand \"U\" va arata tot ce puteti crafta cu el. Atunci cand va uitati la reteta unui item, sau retetele care il folosesc, puteti apasa pe click stanga/dreapta pe oricare item din acel meniu pentru a-i vedea retetele!"]
 	quest.0151CED43824DD9B.quest_subtitle: "Items made easy"
 	quest.0151CED43824DD9B.title: "Just Enough Items!"
+	quest.0283CEC7D11424F5.quest_desc: ["Straw-ul este obtinut din taierea plantelor inalte cu cutitul, iar scoarta de copac de la strippingul bustenilor"]
+	quest.05660680E79D72A9.quest_desc: ["Modul \"Reconnectible Chains\" iti permite sa legi doua garduri intre ele cu lanturi, sfoara, liane si altele! Daca ai un tarnacop in mana, tii apasat right-click cu el, si sari pe un astfel de lant, il poti folosi ca pe o tiroliana!"]
+	quest.05660680E79D72A9.quest_subtitle: "Nyooooooooooooommm"
+	quest.05660680E79D72A9.title: "Ziplines!"
+	quest.063DA8EF22708955.quest_desc: ["Odata legat la un cal si echipat cu sape, un plug poate ara campul mult mai eficient! Doar echipeaza uneltele in plug, mergi inainte cu calul, si blockurile din spatele tau vor fi arate automat!"]
+	quest.063DA8EF22708955.title: "Plow"
+	quest.073C5B5091E25530.title: "Paul Tier 1"
+	quest.0B2D2451C4489528.quest_desc: ["Ciocolata, craftata din Cocoa Beans gasita in jungla, iti da efectul \"Sugar Rush\", conferindu-ti mult mai multa viteza, temporar..."]
+	quest.0BF08EC4ABFD5DBB.title: "Soup"
+	quest.0E08F0B083A21E3E.quest_desc: ["Capsunele, gasite in cantitati mari pe campii si in alte zone similare, te pot vindeca atunci cand le mananci pe ele sau pe oricare tip de mancare ce le contine."]
+	quest.0EAD0AA7DB5CEAA7.title: "Placeable food"
 	quest.122B4F01A34336D2.quest_desc: ["Ce obiectiv simplu. De ce este aici?"]
 	quest.122B4F01A34336D2.quest_subtitle: "Doar una..?"
 	quest.122B4F01A34336D2.title: "O cada!"
+	quest.13D4A902897E0E74.quest_desc: ["Un cooking pot este un crafting station in care poti gati o multime de mancaruri diferite. Ca sa il folosesti, trebuie incalzit pe dedesubt (cu un stove, un campfire, un foc, un magma block, etc.) si apoi trebuie doar sa adaugi itemele in spatiul de sus, containerul (daca este cazul) in spatiul de jos, si sa astepti!"]
+	quest.1724254535218140.title: "Vlad Tier 1"
+	quest.1733B2FC1DC9F48E.title: "Nether Shroom Colony"
+	quest.1A0F6D6973CF4DBB.title: "Razvan Tier 1"
+	quest.1A2C47AC5CE01596.quest_desc: ["Menta, gasita langa apa pe dealuri si campii, iti da efectul \"Berserking\", care iti creste atacul si iti scade apararea atunci cand te lupti cu mobi."]
+	quest.1D4ABEBBD520AFD4.quest_desc: ["Boabele de adzuki (fasole rosie) se pot gasi in cantitati mari in paduri, iar acestea iti dau efectul de \"Harmony\" care goneste monstri din jurul tau."]
+	quest.1EA0F02B883962C3.title: "Maria Tier 1"
+	quest.1F90B964A1E08E0F.title: "Rares Tier 1"
+	quest.1FE3B8FF205CEDCB.quest_desc: ["Modul Farmer's Delight adauga versiuni \"Wild\" ale legumelor din minecraft! Tot ce trebuie sa faci este sa le gasesti in lume, sa le spargi, si dupa sa le plantezi! Exista si unele noi, precum rosii, varza, ceapa si orez!"]
+	quest.1FE3B8FF205CEDCB.title: "Wild Crops"
+	quest.2074C617A6DA74E5.title: "Pasta"
+	quest.22260C45A686C286.quest_desc: ["Bananele, gasite in bananieri in jungla si uneori pe plaja, iti overa efectul \"Agility\", care iti permite sa te cateri pe aproape orice block."]
+	quest.233E351F2CF92020.quest_desc: [
+		"Cutitul este o unealta extrem de utila in mai multe scopuri:"
+		""
+		"-Atunci cand spargi iarba sau tall grass cu cutitul, vei obtine \"Straw\", un ingredient de crafting important"
+		""
+		"-Atunci cand omori anumiti mobi cu cutitul, ai sanse mult mai mari sa le primesti dropurile secundare (Ex: Leather de la vaci) si poti primi unele dropuri unice (Ex: Sunca de la porci)"
+		""
+		"-Cu un Cutting Board, poti felia atat diferite ingrediente in parti mai mici (pentru a putea crafta mai eficient) cat si alte blockuri si iteme (vezi retete cu cutting board si tarnacop,topor,etc.)"
+	]
+	quest.233E351F2CF92020.title: "Knife"
 	quest.23E495462DAFB711.quest_desc: [
-		"!!! Jucand un modpack relativ mare, vor fi multe keybind-uri si controale noi care s-ar putea sa se suprapuna, sa nu fie bound nicaieri, sau sa nu fie explicate. Aici va voi indica o lista cu (aproape) toate keybind-urile utile din acest modpack, pentru a va putea orienta mult mai usor in el. !!!"
+		"!!! Jucand un modpack relativ mare, vor fi multe keybind-uri si controale noi care s-ar putea sa se suprapuna, sa nu fie bound nicaieri, sau sa nu fie explicate. Aici va voi indica o lista cu (aproape) toate keybind-urile RECOMANDATE pentru lucruri utile din acest modpack, pentru a va putea orienta mult mai usor in el. Va trebui sa vi le setati SINGURI !!!"
 		""
 		"!!! Pentru a accesa meniul de keybinds, intrati in Options -> Controls -> Key Binds, unde aveti inclusiv un search bar pentru a le cauta pe cele necesare. Pentru a schimba un keybind, apasati, in setari, in locul unde este afisata tasta, si apoi apasati, pe tastatura, tasta la care vreti sa setati acel keybind !!!"
 		""
@@ -85,6 +120,8 @@
 		"\"K\" - Toggle shaders (On/Off)"
 	]
 	quest.23E495462DAFB711.quest_subtitle: "FOARTE IMPORTANT!"
+	quest.23E89027BFF12529.quest_desc: ["Boabele de vanilie, gasite in savana si recoltate cu foarfeca, iti ofera efectul \"Vanilla Scent\", care te impiedica sa primesti orice alt efect pe durata lui."]
+	quest.258E9E3C90DD3CF3.quest_desc: ["Pentru a felia mancare, pur si simplu pune un ingredient admis (carne, fructe, legume, paine, etc.) pe cutting board, si da right click cu cutitul!"]
 	quest.27E527A2B9DE6872.quest_desc: ["Modul Supplementaries adauga capacitatea de a pune pe jos bete, blaze roduri, gunpowder si orice fel de carte. Unele dintre aceste iteme, precum gunpowderul, s-ar putea sa aiba unele proprietati speciale..."]
 	quest.27E527A2B9DE6872.quest_subtitle: "Tot ce ti-ai dorit vreodata..."
 	quest.27E527A2B9DE6872.title: "Noi Iteme Placeable!"
@@ -97,31 +134,57 @@
 	quest.2EBF1FC1B0D65E40.quest_desc: ["Modul Chipped adauga mai multe workbench-uri speciale, cu care poti crafta variante cosmetice diferite la aproape orice block din vanilla! Acestea pot, de asemene, sa fie craftate in unelte portabile, care au acelasi efect."]
 	quest.2EBF1FC1B0D65E40.quest_subtitle: "Posibilitati infinite"
 	quest.2EBF1FC1B0D65E40.title: "Noi Variante de Blockuri!"
+	quest.2F9E6108605C8887.title: "Maximum Shake"
+	quest.3003922FCFD3A4B8.title: "Darius Tier 1"
+	quest.30B272E35B35C12D.title: "Branzeturi"
 	quest.36572724F4A8CBE3.quest_subtitle: "Uneltele de baza"
 	quest.36572724F4A8CBE3.title: "Full Kit"
+	quest.37EA8283CA4376CD.title: "Bauturi cu lapte"
+	quest.37EAC62DDFFA8EE4.title: "Bottled Food"
+	quest.3807B0F57F1E3DE8.quest_desc: ["Acestea sunt unele din dropurile rare pe care le poti obtine doar daca omori un mob cu cutitul."]
 	quest.3A29D3751732772B.quest_desc: ["Modul AstikorCarts adauga diferite feluri de carute care pot cara playeri, iteme si mobi si pot fi trase de orice mount, craftate cu ajutorul rotilor. In aditie, acest modpack imbunatateste atat caii, adaugandu-le mecanici noi, cat si minecarturile, care sunt acum mai rapide si mai eficiente."]
 	quest.3A29D3751732772B.quest_subtitle: "Revolutia este aici!"
 	quest.3A29D3751732772B.title: "Noi moduri de transport!"
 	quest.3A631AC6F1B283FE.quest_desc: ["Acest modpack introduce un nou sistem de questuri pe care le puteti completa pentru recompense. Conditiile pentru a completa questul sunt listate pe stanga, iar rewardurile sunt pe dreapta. Pentru a completa acest quest, si questurile cu o bifa ✓, doar da click pe ele!"]
 	quest.3A631AC6F1B283FE.quest_subtitle: "Noi Inceputuri"
+	quest.3A8ECAC7E1CDA89B.quest_desc: ["Odata plantate pe rich soil, ciupercile pot creste in colonii, care apoi pot fi harvested cu ajutorul shears pentru a obtine mai multe ciuperci."]
 	quest.3B4D8FF0C2D4AD6A.quest_desc: ["Modul \"Advancement Frames\" Adauga doua tipuri noi de item frame, in care va puteti afisa orice achievement (Precum cele noi adaugate de BlazeandCaves' Achievements Pack) sau stat (din ecranul de statistics)."]
 	quest.3B4D8FF0C2D4AD6A.quest_subtitle: "Pentru iubitorii de achievementuri"
 	quest.3B4D8FF0C2D4AD6A.title: "Noi frame-uri!"
 	quest.3BF8B86ADEA02F23.quest_desc: ["Aici vor fi listate anumite aditii mai putin evidente din modpack, pentru a va familiariza mai usor cu el."]
 	quest.3BF8B86ADEA02F23.quest_subtitle: "Lucruri de stiut"
 	quest.3BF8B86ADEA02F23.title: "Mecanici Noi"
+	quest.3BFE83093FD4A7E3.title: "Eric Tier 1"
+	quest.3C66FDDA538C05B9.title: "Flavia Tier 1"
+	quest.3CF6B777F49BF9D2.quest_desc: ["Modul Neapolitan adauga sase arome noi pentru mancare, fiecare gasita intr-un loc unic si fiecare oferind un efect unic. Acestea vor fi descrise individual in questurile urmatoare."]
+	quest.3CF6B777F49BF9D2.title: "Noi Arome!"
+	quest.436E2F74E8F73AA8.quest_desc: ["Odata legat la un cal si umplut cu seminte/legume, un Seed Drill poate planta seminte mult mai eficient! Doar mergi in fata cu calul, si tot pamantul arat din spatele tau va fi rasadit automat!"]
+	quest.436E2F74E8F73AA8.title: "Seed Drill"
 	quest.44312C3CD8886843.quest_desc: [
 		"Modul Farmer's Delight adauga o multime de feluri noi de mancare, dar pentru a le face pe cele mai complicate, iti vor trebui anumite ustensile speciale. Odata obtinut, un Cooking Pot poate fi pus peste un Stove, un Campfire, sau pur si simplu un foc, si poate fi folosit pentru a gati tot felul de retete speciale (atentie, unele dintre ele s-ar putea sa aiba nevoie si de castroane!)"
 		""
 		"De asemenea, un Stove, cat si un Skillet, pot fi folosite pentru a gati mult mai eficient aceleasi retete precum un Campfire, iar cu tigaia, unele retete pot fi completate chiar si direct din mana ta..."
 	]
 	quest.44312C3CD8886843.title: "Instrumentele Gatitului"
+	quest.44349DC1FDEFA1AD.quest_subtitle: "Ceva ciudat se intampla la Spawn... Ar fi bine sa vii sa verifici Craniul Regelui Dragon..!"
+	quest.44349DC1FDEFA1AD.title: "Invazie?!"
+	quest.450DFE06F24AAE82.title: "Bauturi cu miere"
 	quest.46197DF9514F3E18.quest_desc: ["Cu modul Bountiful, acum in village-uri se vor spawna Bounty Boards - blockuri de unde poti lua misiuni pe timp limitat, de unde poti obtine diferite recompense. Cu cat faci mai multe questuri pentru un singur Bounty Board, cu atat recompensele vor deveni mai bune, si poti obtine noi tipuri de bounties!"]
 	quest.46197DF9514F3E18.quest_subtitle: "Questuri... DIN NOU??"
 	quest.46197DF9514F3E18.title: "Bounties!"
+	quest.472BD8DCD3238FCB.quest_desc: ["Safety netul este un block foarte util deoarece impiedica fall damage-ul oricui cade pe el."]
 	quest.492143BBF6FFFEE6.quest_subtitle: "Suntem Foarte Seriosi."
 	quest.4A3B940D8A77B449.quest_subtitle: "Obiective pentru maestri..."
 	quest.4A3B940D8A77B449.title: "Welcome to the underground"
+	quest.4B1FB536021BF57A.quest_desc: ["Bauturi cu apa"]
+	quest.4B977C0CCA2F0EA2.quest_desc: ["Odata legat la un cal, un Reaper poate recolta rasadurile mult mai eficient. Doar mergi in fata cu calul, si semintele vor fi colectate automat!"]
+	quest.4B977C0CCA2F0EA2.title: "Reaper"
+	quest.4BD4733D903902BB.quest_desc: [
+		"Rope-ul (versiunea din Farmer's Delight) poate fi folosit pentru a construi si pentru a te urca/cobora din anumite locuri. De asemenea, poti pune un block de rope deasupra unor rosii care cresc pentru a dubla numarul de rosii pe care le poti obtine din ele."
+		""
+		"Rope-ul (versiunea din Supplementaries) poate fi folosit similar, dar poate de asemenea sa fie folosit pentru a cobori anumite blockuri in jos, si intr-un scripete, care poate deplasa mai multe blockuri automat"
+	]
+	quest.4C83604187705B65.title: "Ice Cream!!"
 	quest.500D32AEAC722D02.quest_desc: ["Modul MmmMmmMmmMmm adauga un Target Dummy! Craftat cu un armor stand si hay, poate fi utilizat pentru a-ti testa toate armele si dps-ul pe care il ai."]
 	quest.500D32AEAC722D02.quest_subtitle: "Manechine? Vreau sa le bat!"
 	quest.500D32AEAC722D02.title: "Target Dummies!"
@@ -129,19 +192,45 @@
 	quest.55CCE07F4560D7E9.quest_desc: ["Modul Universal Sawmill adauga item-ul Sawmill, un crafting station universal unde poti transforma bustenii si scandurile in aproape orice item din lemn, inclusiv din moduri."]
 	quest.55CCE07F4560D7E9.quest_subtitle: "Defrisarea este aici defrisarea este acum"
 	quest.55CCE07F4560D7E9.title: "Stonecutter... Pentru lemn?"
+	quest.56B3301989D822E1.quest_desc: ["Keg-ul este un crafting station util pentru a face bauturi, branzeturi si mancaruri fermentate. Pentru a-l folosi, introdu ingredientele in partea de sus, sticla/lichidul necesar (daca este cazul) in slotul de jos, adu-l la temperatura potrivita utilizand gheata,magma sau alte blockuri pentru controlul temperaturii, si asteapta!"]
 	quest.5B071C75AF9DF2D5.quest_desc: ["Modul Accessories adauga diverse slot-uri pentru echipament si armura cosmetica, vizibile daca apasati pe iconita cu squid-ul din dreptul personajului vostru in inventar. Acestea accepta accesorii din modul Relics, inele si lanturi din modul Jewellery, palarii, quiver-uri, cat si unele iteme din vanilla, precum busola, ceasul si lantern-ul."]
 	quest.5B071C75AF9DF2D5.quest_subtitle: "Echipamentul Eroilor"
 	quest.5B071C75AF9DF2D5.title: "Accesorii!"
+	quest.603EE42D459ABA0F.quest_subtitle: "Tier 1 = 5 capete INTR-UN STACK sub care scrie \"9 component(s)"
+	quest.60D58CA980145D10.title: "Milkshakes"
 	quest.60EAEAE8B65636FC.quest_desc: ["In modul Origins, toata lumea alege un Origin si o Clasa cu care va juca pe intregul parcurs al serverului... Insa, cu un pret semnificativ, aceste trasaturi pot fi schimbate..."]
 	quest.60EAEAE8B65636FC.quest_subtitle: "Pretul Schimbarii"
 	quest.60EAEAE8B65636FC.title: "Origins"
+	quest.6576654150FFB6B4.quest_desc: ["Cu modul AstikorCarts Redux, poti crafta diferite tipuri de pluguri, carute si alte utilitati trase de cai. Aici vor fi prezentate cele trei utilitati introduse de acest mod care te vor ajuta la agricultura, dar exista si mai multe care te pot ajuta sa transporti playeri, iteme sau animale."]
+	quest.65FA001FCAC6DD21.quest_desc: ["Odata obtinute, blockurile de Organic Compost trebuie tinute intr-un spatiu intunecat si umed, iar dupa ceva timp, vor deveni \"Rich Soil\", un tip de sol mult mai bun pentru cresterea plantelor. Pentru a face acest proces mai rapid, puteti pune alte blockuri de rich soil sau ciuperci in jurul compostului, pentru  a obtine rich soil mai rapid"]
+	quest.667AAC9546BC4F47.quest_desc: ["Un basket functioneaza ca un container in care poti arunca iteme, ca o combinatie intre un hopper si un chest."]
+	quest.673052730A212DA2.quest_desc: ["Versiunea din nether a rich soil-ului, pe care pot fi plantate plante din IAD..."]
+	quest.67737E71715204C4.quest_desc: ["Multe retete care utilizeaza Keg-ul necesita o anumita temperatura pentru a fi completate, iar cu acestea o poti controla foarte usor."]
+	quest.67737E71715204C4.title: "Temperature Control"
 	quest.67839453E9970120.quest_desc: ["S-au intors... Cazile.... Nu avem scapare..."]
 	quest.67839453E9970120.quest_subtitle: "Cat de multe???"
 	quest.6E110E9461C92D2E.quest_desc: ["Acum ca esti gata, este timpul sa intri in toate restul questurilor! Exploreaza, lupta sau devino un fermier cu ajutorul quest book-ului."]
 	quest.6E110E9461C92D2E.quest_subtitle: "Timpul pentru questurile adevarate"
+	quest.7127F274C1E5B4BF.quest_desc: [
+		"Odata cu venirea misteriosului Guild al Asasinilor in lume, vanatoarea pentru capete incepe..!"
+		""
+		"Din momentul in care obtii suficiente capete ale unui player anume pentru a-i completa un tier de rewarduri, intra in Craniul Regelui Dragon, apasa pe butonul de piatra de la taverna si asteapta sa fii servit cu un Token specific fiecarui player in parte, pe care il poti folosi imediat pentru a da redeem la recompensa respectiva acelui player."
+		""
+		"In cazul falsificarii sau duplicarii capetelor sau Tokenurilor,  sinuciderea repetata pentru a obtine propriul cap de mai multe ori, sau orice alt tip de frauda, vor exista..."
+		""
+		""
+		""
+		"...Consecinte... ⚔"
+	]
+	quest.7127F274C1E5B4BF.quest_subtitle: "Kill or be killed"
+	quest.7127F274C1E5B4BF.title: "Let The Hunt begin..."
 	quest.713F2A964C4E25AB.title: "Roadele Pamantului"
+	quest.771896BF5DC95C61.quest_desc: ["Cu ajutorul unui sandwiching station, poti combina orice mancaruri vrei! Doar pune o felie de paine pe el, apoi pune orice alt item comestibil (sau potiune) de oricate ori vrei, si sparge sandwichul!"]
+	quest.79DE378E9765920D.title: "Noi Plante"
 	quest.7A46EE300FCEF8D2.quest_subtitle: "La ce iti trebuia diamantul ala oricum?"
 	quest.7A46EE300FCEF8D2.title: "Let's go Gambling!"
+	quest.7FC3E5D5B73853D4.title: "Alcoolism"
+	quest.7FE662D5BA7AF768.title: "Mancaruri Fermentate"
 	reward.19545C1BEBE18030.title: "Dirt"
 	reward.1CEA5E381FD81E87.title: "Ai Castigat!"
 	reward.24D4AF875DF0CCEA.title: "Bear Dust"
@@ -151,6 +240,7 @@
 	reward.401F26EFAD2CBAD4.title: "Xp!"
 	reward.40B734D579D0F681.title: "Surpriza."
 	reward.5E83AFFBCB2AF76D.title: "Shaorma"
+	reward_table.054718E0D081A6B0.title: "Chopped items"
 	reward_table.081B5A164FD87AE7.title: "Cassettes"
 	reward_table.0C90DCC1A8E5F22B.title: "Seeds"
 	reward_table.2F8B16A0E2AFF14E.title: "Bundles"
@@ -161,15 +251,19 @@
 	reward_table.7D60D72486AEA7C8.title: "Labels"
 	task.1EEF0F5B9008731A.title: "Chopped food"
 	task.1F771C34BF465BC9.title: "Branching out"
+	task.2447875E0DA8004E.title: "Uita-te la semnul din fata craniului..."
 	task.2679F8DACF264E51.title: "Rope"
+	task.28616402425FA4FF.title: "Info"
 	task.2F68B53C21AED827.title: "Mushroom Colony"
 	task.35F335D6B92ABC82.title: "Any #supplementaries:placeable_books"
+	task.3C0013F7B1CDF833.title: "Any #zipline:attachment"
 	task.3D0AD1DAE1117E09.title: "Any #accessories_compat_layer:all_curios_items"
 	task.3FE83CA71CA5ECE4.title: "Basket"
 	task.469CE52E7B93A331.title: "Any #c:foods/ice_cream"
 	task.4A2EC0D82A153AF4.title: "Chipped Workbenches"
 	task.4AAF81AC1B2B2F18.title: "Advancement:Getting Wood"
 	task.4D5D345129D1D6A4.title: "Any #farmersdelight:feasts"
+	task.4D79491F0DF3D27E.title: "Any #connectiblechains:catenary_items"
 	task.4F8E0A1EA2EA19BF.title: "Regulile Serverului!"
 	task.5CAD0727C826DA1E.title: "Echipe"
 	task.61273833CAE667FD.title: "Any #relics:relic"

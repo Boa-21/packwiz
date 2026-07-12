@@ -7,7 +7,7 @@
 		id: "farmersdelight:tomato_seeds"
 	}
 	id: "03B667AD6F3E130E"
-	order_index: 2
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
@@ -17,6 +17,14 @@
 			}
 			icon_scale: 1.1d
 			id: "1FE3B8FF205CEDCB"
+			rewards: [{
+				id: "0913CB753C83C283"
+				item: {
+					count: 1
+					id: "simplehats:farmerbrim"
+				}
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 1.5d
 			tasks: [{
@@ -32,6 +40,26 @@
 		{
 			dependencies: ["1FE3B8FF205CEDCB"]
 			id: "3CF6B777F49BF9D2"
+			rewards: [
+				{
+					count: 6
+					id: "502B99FAE4622CE4"
+					item: {
+						count: 1
+						id: "minecraft:sugar"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "3766247DACCE2461"
+					item: {
+						count: 1
+						id: "minecraft:egg"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "77E3A8FC7DB22A8A"
 				item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:cocoa_beans)item(neapolitan:vanilla_pods)item(neapolitan:strawberries)item(neapolitan:banana)item(neapolitan:mint_leaves)item(neapolitan:adzuki_beans))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -43,6 +71,15 @@
 		{
 			dependencies: ["3CF6B777F49BF9D2"]
 			id: "0B2D2451C4489528"
+			rewards: [{
+				count: 3
+				id: "6C0747DA8E4C7633"
+				item: {
+					count: 1
+					id: "cookielicious:chocolate_cookie"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				count: 4L
 				id: "7E54A5DD60513358"
@@ -55,6 +92,15 @@
 		{
 			dependencies: ["3CF6B777F49BF9D2"]
 			id: "23E89027BFF12529"
+			rewards: [{
+				count: 3
+				id: "3C7BEADB4B481525"
+				item: {
+					count: 1
+					id: "cookielicious:vanilla_cookie"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				count: 4L
 				id: "55F0BECFE28FBEA0"
@@ -67,6 +113,15 @@
 		{
 			dependencies: ["3CF6B777F49BF9D2"]
 			id: "0E08F0B083A21E3E"
+			rewards: [{
+				count: 3
+				id: "62FCA9D22C30A663"
+				item: {
+					count: 1
+					id: "cookielicious:strawberry_cookie"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				count: 4L
 				id: "4ACA12F8A4418D87"
@@ -79,6 +134,15 @@
 		{
 			dependencies: ["3CF6B777F49BF9D2"]
 			id: "22260C45A686C286"
+			rewards: [{
+				count: 3
+				id: "3F7734931F395763"
+				item: {
+					count: 1
+					id: "cookielicious:banana_cookie"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				count: 4L
 				id: "5CBA0F4066782D41"
@@ -91,6 +155,15 @@
 		{
 			dependencies: ["3CF6B777F49BF9D2"]
 			id: "1A2C47AC5CE01596"
+			rewards: [{
+				count: 3
+				id: "02D5F2CFCB21780C"
+				item: {
+					count: 1
+					id: "cookielicious:mint_cookie"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				count: 4L
 				id: "42AAE22917D48BC0"
@@ -103,6 +176,15 @@
 		{
 			dependencies: ["3CF6B777F49BF9D2"]
 			id: "1D4ABEBBD520AFD4"
+			rewards: [{
+				count: 3
+				id: "66A999068CEAA370"
+				item: {
+					count: 1
+					id: "cookielicious:adzuki_cookie"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				count: 4L
 				id: "1E9A1B7C0FED3437"
@@ -115,6 +197,14 @@
 		{
 			dependencies: ["0B2D2451C4489528"]
 			id: "50C22029610A9D58"
+			rewards: [{
+				id: "1B444B1B2D8C46CC"
+				item: {
+					count: 1
+					id: "neapolitan:chocolate_ice_cream_block"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "11F8EAFACCFAF53F"
 				item: { count: 1, id: "neapolitan:chocolate_cake" }
@@ -126,6 +216,14 @@
 		{
 			dependencies: ["23E89027BFF12529"]
 			id: "62C6CCA81B2E4618"
+			rewards: [{
+				id: "2CC9DEA75A0C5A23"
+				item: {
+					count: 1
+					id: "neapolitan:vanilla_ice_cream_block"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "653FE98975077232"
 				item: { count: 1, id: "neapolitan:vanilla_cake" }
@@ -137,6 +235,14 @@
 		{
 			dependencies: ["0E08F0B083A21E3E"]
 			id: "23BCB54927C381DC"
+			rewards: [{
+				id: "2C7B923C05784C1B"
+				item: {
+					count: 1
+					id: "neapolitan:strawberry_ice_cream_block"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "725301E792FDDEF1"
 				item: { count: 1, id: "neapolitan:strawberry_cake" }
@@ -148,6 +254,14 @@
 		{
 			dependencies: ["22260C45A686C286"]
 			id: "08FA54A28FAC02A8"
+			rewards: [{
+				id: "4241B328E92D77EC"
+				item: {
+					count: 1
+					id: "neapolitan:banana_ice_cream_block"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "22C63799092CDDC5"
 				item: { count: 1, id: "neapolitan:banana_cake" }
@@ -159,6 +273,14 @@
 		{
 			dependencies: ["1A2C47AC5CE01596"]
 			id: "2BE06FA0B971F8D5"
+			rewards: [{
+				id: "59EC499AFB2FE58F"
+				item: {
+					count: 1
+					id: "neapolitan:mint_ice_cream_block"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "57FB29A962CFA2FA"
 				item: { count: 1, id: "neapolitan:mint_cake" }
@@ -170,6 +292,14 @@
 		{
 			dependencies: ["1D4ABEBBD520AFD4"]
 			id: "34F258AD82EBEF8F"
+			rewards: [{
+				id: "726AF3568D5EB614"
+				item: {
+					count: 1
+					id: "neapolitan:adzuki_ice_cream_block"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "1F694BC7B54E56AC"
 				item: { count: 1, id: "neapolitan:adzuki_cake" }
@@ -184,6 +314,24 @@
 				"23E89027BFF12529"
 			]
 			id: "60A7E3286698CFDB"
+			rewards: [
+				{
+					id: "28CEE10CC8223BAE"
+					item: {
+						count: 1
+						id: "abnormals_delight:vanilla_cake_slice"
+					}
+					type: "item"
+				}
+				{
+					id: "09C93B5D8D83FC20"
+					item: {
+						count: 1
+						id: "abnormals_delight:chocolate_cake_slice"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2352554971EF08B1"
 				item: { count: 1, id: "neapolitan:vanilla_chocolate_fingers" }
@@ -198,6 +346,24 @@
 				"0E08F0B083A21E3E"
 			]
 			id: "3600A5296728E806"
+			rewards: [
+				{
+					id: "48FC6642BD6C8ED2"
+					item: {
+						count: 1
+						id: "abnormals_delight:chocolate_cake_slice"
+					}
+					type: "item"
+				}
+				{
+					id: "1E569CC213F98A2A"
+					item: {
+						count: 1
+						id: "abnormals_delight:strawberry_cake_slice"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "02122359C7120D41"
 				item: { count: 1, id: "neapolitan:chocolate_strawberries" }
@@ -209,6 +375,14 @@
 		{
 			dependencies: ["0B2D2451C4489528"]
 			id: "7D218DA74F43FD96"
+			rewards: [{
+				id: "540F03457B3EE6FD"
+				item: {
+					count: 1
+					id: "abnormals_delight:strawberry_cake_slice"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "406D5FA4FF985061"
 				item: { count: 1, id: "neapolitan:chocolate_ice_cream" }
@@ -220,6 +394,14 @@
 		{
 			dependencies: ["0E08F0B083A21E3E"]
 			id: "14AFBFB2C918EE0E"
+			rewards: [{
+				id: "579C504E55499203"
+				item: {
+					count: 1
+					id: "abnormals_delight:strawberry_cake_slice"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "471C7E9F794BCF8E"
 				item: { count: 1, id: "neapolitan:strawberry_ice_cream" }
@@ -231,6 +413,14 @@
 		{
 			dependencies: ["23E89027BFF12529"]
 			id: "1C752CE913D5BA30"
+			rewards: [{
+				id: "34A17900B158B8B8"
+				item: {
+					count: 1
+					id: "abnormals_delight:vanilla_cake_slice"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4ACDA48D4FC69DFC"
 				item: { count: 1, id: "neapolitan:vanilla_ice_cream" }
@@ -242,6 +432,14 @@
 		{
 			dependencies: ["1A2C47AC5CE01596"]
 			id: "5537B6505DA5F89E"
+			rewards: [{
+				id: "2109036A3E4F0A20"
+				item: {
+					count: 1
+					id: "abnormals_delight:mint_cake_slice"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "71CC8E5E3928C91D"
 				item: { count: 1, id: "neapolitan:mint_ice_cream" }
@@ -253,6 +451,14 @@
 		{
 			dependencies: ["1D4ABEBBD520AFD4"]
 			id: "3A281574B1AA88C1"
+			rewards: [{
+				id: "39B6CBBE8E85BBEF"
+				item: {
+					count: 1
+					id: "abnormals_delight:adzuki_cake_slice"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5BEC28AA62673752"
 				item: { count: 1, id: "neapolitan:adzuki_ice_cream" }
@@ -264,6 +470,14 @@
 		{
 			dependencies: ["22260C45A686C286"]
 			id: "4564B63D23294FED"
+			rewards: [{
+				id: "71E494FD0EF413B4"
+				item: {
+					count: 1
+					id: "abnormals_delight:banana_cake_slice"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "7E2016DCB25B6E16"
 				item: { count: 1, id: "neapolitan:banana_ice_cream" }
@@ -279,6 +493,22 @@
 				"14AFBFB2C918EE0E"
 			]
 			id: "6F475A4D1A97A2F9"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4FF9EBDDF09706A8"
+					table_id: 7961290223541538771L
+					type: "loot"
+				}
+				{
+					id: "4F3A7FE555301B0D"
+					item: {
+						count: 1
+						id: "simplehats:chocolate_sauced"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0A01D7E267277950"
 				item: { count: 1, id: "neapolitan:neapolitan_ice_cream" }
@@ -290,6 +520,14 @@
 		{
 			dependencies: ["1D4ABEBBD520AFD4"]
 			id: "049EA85AE7216034"
+			rewards: [{
+				id: "38602790496743E2"
+				item: {
+					count: 1
+					id: "abnormals_delight:adzuki_cake_slice"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5E72346F5775A978"
 				item: { count: 1, id: "neapolitan:adzuki_bun" }
@@ -301,6 +539,14 @@
 		{
 			dependencies: ["22260C45A686C286"]
 			id: "0FA7B6F0A22BD879"
+			rewards: [{
+				id: "7C3A5C28198542AB"
+				item: {
+					count: 1
+					id: "abnormals_delight:banana_cake_slice"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "0850A1BD26297E74"
 				item: { count: 1, id: "neapolitan:banana_bread" }
@@ -312,6 +558,14 @@
 		{
 			dependencies: ["1A2C47AC5CE01596"]
 			id: "2E7CF0155F0026BE"
+			rewards: [{
+				id: "44B0A41E5541E149"
+				item: {
+					count: 1
+					id: "abnormals_delight:mint_cake_slice"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "637ED0BC5DD57247"
 				item: { count: 1, id: "neapolitan:mint_candies" }
@@ -323,6 +577,12 @@
 		{
 			dependencies: ["1FE3B8FF205CEDCB"]
 			id: "51CFAF08A4FE7062"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "696E2CFB11FF29C3"
+				table_id: 905466249421910571L
+				type: "loot"
+			}]
 			tasks: [{
 				count: 4L
 				id: "0CCD91FD28A26EEE"
@@ -335,6 +595,12 @@
 		{
 			dependencies: ["1FE3B8FF205CEDCB"]
 			id: "23E98AE5F3B21197"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "176C973D2ADCAC77"
+				table_id: 905466249421910571L
+				type: "loot"
+			}]
 			tasks: [{
 				count: 4L
 				id: "1E635DC400B918B5"
@@ -347,6 +613,12 @@
 		{
 			dependencies: ["1FE3B8FF205CEDCB"]
 			id: "0B8AF0105D589F61"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4E5E88BB4605C5FE"
+				table_id: 905466249421910571L
+				type: "loot"
+			}]
 			tasks: [{
 				count: 4L
 				id: "03EDD4E8C156F2DF"
@@ -359,6 +631,12 @@
 		{
 			dependencies: ["1FE3B8FF205CEDCB"]
 			id: "5CA11F91B94E0AFB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "04964EDB43CD0E88"
+				table_id: 905466249421910571L
+				type: "loot"
+			}]
 			tasks: [{
 				count: 4L
 				id: "69E02AE31B7AA69C"
@@ -371,6 +649,12 @@
 		{
 			dependencies: ["1FE3B8FF205CEDCB"]
 			id: "3400ECC93AD62ADC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "50962BA3585D38FA"
+				table_id: 905466249421910571L
+				type: "loot"
+			}]
 			tasks: [{
 				count: 4L
 				id: "471413EA28335CCC"
@@ -383,6 +667,12 @@
 		{
 			dependencies: ["1FE3B8FF205CEDCB"]
 			id: "138F184396C98CB5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3B0B7679F47736C2"
+				table_id: 905466249421910571L
+				type: "loot"
+			}]
 			tasks: [{
 				count: 4L
 				id: "732CF70167C58AF0"
@@ -395,6 +685,12 @@
 		{
 			dependencies: ["1FE3B8FF205CEDCB"]
 			id: "4F7CA21B44810190"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0A9B68DF76901CB4"
+				table_id: 905466249421910571L
+				type: "loot"
+			}]
 			tasks: [{
 				count: 4L
 				id: "3CBDFBE6617C62DA"
@@ -407,6 +703,12 @@
 		{
 			dependencies: ["1FE3B8FF205CEDCB"]
 			id: "6E221055EBA06E6D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "08E5D7D448C693D4"
+				table_id: 905466249421910571L
+				type: "loot"
+			}]
 			tasks: [{
 				count: 4L
 				id: "440C01DC5F4018C9"
@@ -419,6 +721,15 @@
 		{
 			dependencies: ["1FE3B8FF205CEDCB"]
 			id: "79DE378E9765920D"
+			rewards: [{
+				count: 6
+				id: "09C290B1B0CD2C15"
+				item: {
+					count: 1
+					id: "minecraft:bone_meal"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2A79962B19432BF4"
 				item: { components: { "ftbfiltersystem:filter": "or(item(farmersdelight:rice)item(farmersdelight:tomato)item(farmersdelight:cabbage)item(farmersdelight:onion))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -430,7 +741,16 @@
 		{
 			dependencies: ["1FE3B8FF205CEDCB"]
 			id: "6576654150FFB6B4"
+			rewards: [{
+				id: "598406108E66978E"
+				item: {
+					count: 1
+					id: "minecraft:saddle"
+				}
+				type: "item"
+			}]
 			tasks: [{
+				count: 2L
 				id: "04702FD2D9EB7135"
 				item: { count: 1, id: "astikorcartsredux:wheel" }
 				type: "item"
@@ -441,6 +761,12 @@
 		{
 			dependencies: ["79DE378E9765920D"]
 			id: "482D9F0FBBAF9FF7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "69CBE445B8754E50"
+				table_id: 905466249421910571L
+				type: "loot"
+			}]
 			tasks: [{
 				count: 4L
 				id: "45FDD6C745D3AF3F"
@@ -453,6 +779,12 @@
 		{
 			dependencies: ["79DE378E9765920D"]
 			id: "5677F8D2E7EC4D62"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2BB359194E49B919"
+				table_id: 905466249421910571L
+				type: "loot"
+			}]
 			tasks: [{
 				count: 4L
 				id: "74F8DF4305BFD0F3"
@@ -465,6 +797,12 @@
 		{
 			dependencies: ["79DE378E9765920D"]
 			id: "2363BBD861773030"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "68EB7ED9404FC45A"
+				table_id: 905466249421910571L
+				type: "loot"
+			}]
 			tasks: [{
 				count: 4L
 				id: "6994D1C7A53CBA44"
@@ -477,6 +815,12 @@
 		{
 			dependencies: ["79DE378E9765920D"]
 			id: "0495EDFC560AA24D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "18F622E642B2F58E"
+				table_id: 905466249421910571L
+				type: "loot"
+			}]
 			tasks: [{
 				count: 4L
 				id: "44FDFCCD4F4633DB"
@@ -489,6 +833,12 @@
 		{
 			dependencies: ["482D9F0FBBAF9FF7"]
 			id: "5B48B324AC665859"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4E48AA714004E4B6"
+				table_id: 380300047385994928L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "7F2A6A163931A0FA"
 				item: { count: 1, id: "farmersdelight:cabbage_rolls" }
@@ -500,6 +850,12 @@
 		{
 			dependencies: ["482D9F0FBBAF9FF7"]
 			id: "06D654ABCFE29604"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "603BA50A32FA350B"
+				table_id: 380300047385994928L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "3A6B922EB57FE993"
 				item: { count: 1, id: "farmersdelight:chicken_sandwich" }
@@ -511,6 +867,12 @@
 		{
 			dependencies: ["0495EDFC560AA24D"]
 			id: "6983CA9C58D400C1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "121AAE1F050F7657"
+				table_id: 380300047385994928L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "6276748D231C8BD2"
 				item: { count: 1, id: "farmersdelight:tomato_sauce" }
@@ -525,6 +887,12 @@
 				"482D9F0FBBAF9FF7"
 			]
 			id: "796106122B9FD5E8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "36CC5EBB8820B250"
+				table_id: 380300047385994928L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "0C254C50BEABEDDB"
 				item: { count: 1, id: "farmersdelight:mixed_salad" }
@@ -536,6 +904,12 @@
 		{
 			dependencies: ["0495EDFC560AA24D"]
 			id: "6C1ECCBDD4982D8F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "06A966251F4C1FBE"
+				table_id: 380300047385994928L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "3A6D63FCA83E2DD8"
 				item: { count: 1, id: "farmersdelight:baked_cod_stew" }
@@ -547,6 +921,12 @@
 		{
 			dependencies: ["2363BBD861773030"]
 			id: "39513B35255E57FD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4B8CE617DE30E428"
+				table_id: 380300047385994928L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "2F81C198A07700BD"
 				item: { count: 1, id: "farmersdelight:shepherds_pie_block" }
@@ -558,6 +938,12 @@
 		{
 			dependencies: ["2363BBD861773030"]
 			id: "2A2B25439D2C56A0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7D279A57F1BB767D"
+				table_id: 380300047385994928L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "02F32C515A8BD564"
 				item: { count: 1, id: "farmersdelight:onion_soup" }
@@ -572,6 +958,12 @@
 				"5677F8D2E7EC4D62"
 			]
 			id: "4FE36BACCB777890"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "17933E2B85110603"
+				table_id: 380300047385994928L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "2F8BA235004F0ECF"
 				item: { count: 1, id: "farmersdelight:steak_and_potatoes" }
@@ -583,6 +975,12 @@
 		{
 			dependencies: ["5677F8D2E7EC4D62"]
 			id: "4A3E5BCDCF0C43CE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2F8C5C80F98DB08B"
+				table_id: 380300047385994928L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "19D44BDCE7EF534B"
 				item: { count: 1, id: "farmersdelight:mushroom_rice" }
@@ -594,6 +992,12 @@
 		{
 			dependencies: ["5677F8D2E7EC4D62"]
 			id: "7C5EE865444B0577"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3FAB3B50678B65AE"
+				table_id: 380300047385994928L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "34D370AEC8FDF2E6"
 				item: { count: 1, id: "farmersdelight:cooked_rice" }
@@ -608,6 +1012,12 @@
 				"0495EDFC560AA24D"
 			]
 			id: "6BDF07797E09A4B6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1026D65EE622CB8A"
+				table_id: 380300047385994928L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "64AC1EB8C9ADF661"
 				item: { count: 1, id: "farmersdelight:roasted_mutton_chops" }
@@ -622,6 +1032,12 @@
 				"2363BBD861773030"
 			]
 			id: "7FCBE09F0F28DED7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5C49A0C58B925DEA"
+				table_id: 380300047385994928L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "06B8B597337FCF1F"
 				item: { count: 1, id: "farmersdelight:grilled_salmon" }
@@ -633,6 +1049,32 @@
 		{
 			dependencies: ["6576654150FFB6B4"]
 			id: "063DA8EF22708955"
+			rewards: [
+				{
+					id: "0E5E5572A0C523B3"
+					item: {
+						count: 1
+						id: "minecraft:wooden_hoe"
+					}
+					type: "item"
+				}
+				{
+					id: "6F8C353462EFCBD5"
+					item: {
+						count: 1
+						id: "minecraft:wooden_hoe"
+					}
+					type: "item"
+				}
+				{
+					id: "67B9557A9A12032A"
+					item: {
+						count: 1
+						id: "minecraft:wooden_hoe"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "54E93ED36ED15187"
 				item: { components: { "ftbfiltersystem:filter": "or(item(astikorcartsredux:oak_plow)item(astikorcartsredux:spruce_plow)item(astikorcartsredux:birch_plow)item(astikorcartsredux:acacia_plow)item(astikorcartsredux:cherry_plow)item(astikorcartsredux:jungle_plow)item(astikorcartsredux:dark_oak_plow)item(astikorcartsredux:crimson_plow)item(astikorcartsredux:warped_plow)item(astikorcartsredux:mangrove_plow)item(astikorcartsredux:bamboo_plow))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -644,6 +1086,14 @@
 		{
 			dependencies: ["6576654150FFB6B4"]
 			id: "4B977C0CCA2F0EA2"
+			rewards: [{
+				id: "37D5074FB8534EB3"
+				item: {
+					count: 1
+					id: "minecraft:iron_shovel"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "10EDD0A079D27054"
 				item: { components: { "ftbfiltersystem:filter": "or(item(astikorcartsredux:oak_reaper)item(astikorcartsredux:spruce_reaper)item(astikorcartsredux:birch_reaper)item(astikorcartsredux:acacia_reaper)item(astikorcartsredux:cherry_reaper)item(astikorcartsredux:jungle_reaper)item(astikorcartsredux:dark_oak_reaper)item(astikorcartsredux:crimson_reaper)item(astikorcartsredux:warped_reaper)item(astikorcartsredux:mangrove_reaper)item(astikorcartsredux:bamboo_reaper))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -655,6 +1105,26 @@
 		{
 			dependencies: ["6576654150FFB6B4"]
 			id: "436E2F74E8F73AA8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0A16AB6513060A5B"
+					table_id: 905466249421910571L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6194AE7CA727EA8C"
+					table_id: 905466249421910571L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "728FAA2BF71EC874"
+					table_id: 905466249421910571L
+					type: "loot"
+				}
+			]
 			tasks: [{
 				id: "3BC66E91A1E3CB10"
 				item: { components: { "ftbfiltersystem:filter": "or(item(astikorcartsredux:oak_seed_drill)item(astikorcartsredux:spruce_seed_drill)item(astikorcartsredux:birch_seed_drill)item(astikorcartsredux:acacia_seed_drill)item(astikorcartsredux:cherry_seed_drill)item(astikorcartsredux:jungle_seed_drill)item(astikorcartsredux:dark_oak_seed_drill)item(astikorcartsredux:crimson_seed_drill)item(astikorcartsredux:warped_seed_drill)item(astikorcartsredux:mangrove_seed_drill)item(astikorcartsredux:bamboo_seed_drill))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -678,6 +1148,12 @@
 		{
 			dependencies: ["1FE3B8FF205CEDCB"]
 			id: "13FC204259E32482"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "06B60060E4F13E51"
+				table_id: 905466249421910571L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "515C9156504EFF5B"
 				item: { count: 1, id: "minecraft:honey_bottle" }
@@ -689,6 +1165,12 @@
 		{
 			dependencies: ["3400ECC93AD62ADC"]
 			id: "2BA76BDE1A15C7EB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "264825AF09297B4A"
+				table_id: 380300047385994928L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "7E919137ED912827"
 				item: { count: 1, id: "farmersdelight:sweet_berry_cheesecake" }
@@ -712,6 +1194,12 @@
 		{
 			dependencies: ["101AB28CE62A8167"]
 			id: "25FE5A921462431B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "27439A93C6F686F6"
+				table_id: 380300047385994928L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "18F9826ABFC4EE71"
 				item: { count: 1, id: "ecologics:tropical_stew" }
@@ -723,6 +1211,12 @@
 		{
 			dependencies: ["6E221055EBA06E6D"]
 			id: "11B6473DECB946E3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7B4F03D4F73429D8"
+				table_id: 380300047385994928L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "3242A03C76DFAC25"
 				item: { count: 1, id: "farmersdelight:pumpkin_soup" }
@@ -734,6 +1228,12 @@
 		{
 			dependencies: ["138F184396C98CB5"]
 			id: "336882996EC87DC2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "07DF30BDD0137171"
+				table_id: 380300047385994928L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "795F19CADD7B5C2F"
 				item: { count: 1, id: "berry_good:glowgurt" }
@@ -745,6 +1245,12 @@
 		{
 			dependencies: ["5CA11F91B94E0AFB"]
 			id: "589589699CE7C338"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5D033E26361DFBBE"
+				table_id: 380300047385994928L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "3853D868093378F2"
 				item: { count: 1, id: "farmersdelight:vegetable_soup" }
@@ -756,6 +1262,12 @@
 		{
 			dependencies: ["4F7CA21B44810190"]
 			id: "6485C13918ED9D6A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0AFBB5CDF3B6696C"
+				table_id: 380300047385994928L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "2A63A3DC319F1A33"
 				item: { count: 1, id: "farmersdelight:melon_popsicle" }
@@ -767,6 +1279,12 @@
 		{
 			dependencies: ["23E98AE5F3B21197"]
 			id: "76AA0C4DE0D543D6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "172E4D24F43C97C4"
+				table_id: 380300047385994928L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "31D485CA7CD1FBF8"
 				item: { count: 1, id: "farmersdelight:beef_stew" }
@@ -778,6 +1296,12 @@
 		{
 			dependencies: ["51CFAF08A4FE7062"]
 			id: "726ECE436BB8548C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "765F69DF4D9865B5"
+				table_id: 380300047385994928L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "0A6EB2E8A69C9531"
 				item: { count: 1, id: "mynethersdelight:sausage_and_potatoes" }
@@ -789,6 +1313,12 @@
 		{
 			dependencies: ["0B8AF0105D589F61"]
 			id: "435D72D8FE973C6A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "37E62C2004680EE1"
+				table_id: 380300047385994928L
+				type: "loot"
+			}]
 			tasks: [{
 				id: "6C1B21BC2D879BBE"
 				item: { count: 1, id: "farmersdelight:noodle_soup" }

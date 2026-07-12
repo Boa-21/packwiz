@@ -1,8 +1,10 @@
 {
+	autofocus_id: "44349DC1FDEFA1AD"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "headhunting"
 	group: "06100DA905608A0A"
+	hide_quest_until_deps_complete: true
 	icon: {
 		components: {
 			"minecraft:custom_name": "\"vlad_cel_mare's Head\""
@@ -25,5 +27,1002 @@
 	id: "0793E89DDAB33A32"
 	order_index: 1
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: ["44349DC1FDEFA1AD"]
+			id: "7127F274C1E5B4BF"
+			rewards: [{
+				id: "2CB7F26BCD231300"
+				item: {
+					components: {
+						"minecraft:custom_name": "\"Heartbreak\""
+						"minecraft:enchantments": {
+							levels: {
+								"farmersdelight:backstabbing": 1
+							}
+						}
+						"minecraft:repair_cost": 1
+					}
+					count: 1
+					id: "farmersdelight:iron_knife"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "5587B7B4AB7A60F9"
+				item: { count: 1, id: "minecraft:player_head" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7127F274C1E5B4BF"]
+			id: "1724254535218140"
+			rewards: [
+				{
+					id: "5A757DCCF1289758"
+					item: {
+						components: {
+							"minecraft:custom_name": "\"Sandwichul Cunoasterii Binelui si Raului\""
+							"someassemblyrequired:sandwich_contents": [
+								{
+									count: 1
+									id: "someassemblyrequired:bread_slice"
+								}
+								{
+									count: 1
+									id: "minecraft:enchanted_golden_apple"
+								}
+								{
+									count: 1
+									id: "brewinandchewin:glow_berry_marmalade"
+								}
+								{
+									components: {
+										"minecraft:potion_contents": {
+											potion: "minecraft:strong_strength"
+										}
+									}
+									count: 1
+									id: "minecraft:potion"
+								}
+								{
+									components: {
+										"minecraft:potion_contents": {
+											potion: "apothic_attributes:strong_wither"
+										}
+									}
+									count: 1
+									id: "minecraft:potion"
+								}
+								{
+									count: 1
+									id: "brewinandchewin:dread_nog"
+								}
+								{
+									count: 1
+									id: "redomesticate:rotten_apple"
+								}
+								{
+									count: 1
+									id: "someassemblyrequired:toasted_bread_slice"
+								}
+							]
+						}
+						count: 1
+						id: "someassemblyrequired:sandwich"
+					}
+					type: "item"
+				}
+				{
+					id: "5EDAE9BC20D717BF"
+					item: {
+						components: {
+							"minecraft:custom_name": "\"Love\""
+							"minecraft:enchantments": {
+								levels: {
+									"minecraft:looting": 1
+									"minecraft:sharpness": 2
+								}
+							}
+							"minecraft:lore": ["\"Pierce The Heart\""]
+							"minecraft:repair_cost": 1
+						}
+						count: 1
+						id: "magistuarmory:gold_stylet"
+					}
+					type: "item"
+				}
+				{
+					id: "17CCA25E9CAB1F8C"
+					item: {
+						components: {
+							"minecraft:custom_name": "\"Justice\""
+							"minecraft:enchantments": {
+								levels: {
+									"minecraft:fire_aspect": 1
+									"minecraft:smite": 2
+								}
+							}
+							"minecraft:lore": ["\"Pierce The Soul\""]
+						}
+						count: 1
+						id: "magistuarmory:silver_stylet"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				id: "1722DB070767BC27"
+				item: { components: { "minecraft:custom_name": "\"Vlad Token\"" }, count: 1, id: "displaydelight:fd_christmas_tea" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7127F274C1E5B4BF"]
+			id: "3C66FDDA538C05B9"
+			rewards: [
+				{
+					id: "09688F7ED1C9B316"
+					item: {
+						components: {
+							"minecraft:custom_name": "\"Very Really Yummy Strawberry Sandwich\""
+							"someassemblyrequired:sandwich_contents": [
+								{
+									count: 1
+									id: "someassemblyrequired:toasted_bread_slice"
+								}
+								{
+									count: 1
+									id: "neapolitan:strawberry_ice_cream"
+								}
+								{
+									count: 1
+									id: "neapolitan:adzuki_bun"
+								}
+								{
+									count: 1
+									id: "ecologics:coconut_slice"
+								}
+								{
+									count: 1
+									id: "alexsmobs:cosmic_cod"
+								}
+								{
+									count: 1
+									id: "neapolitan:strawberry_ice_cream"
+								}
+								{
+									count: 1
+									id: "someassemblyrequired:toasted_bread_slice"
+								}
+							]
+						}
+						count: 1
+						id: "someassemblyrequired:sandwich"
+					}
+					type: "item"
+				}
+				{
+					id: "7C447B5F40D8A4D0"
+					item: {
+						components: {
+							"minecraft:instrument": "minecraft:call_goat_horn"
+						}
+						count: 1
+						id: "minecraft:goat_horn"
+					}
+					type: "item"
+				}
+				{
+					id: "54AC34AAC584B21B"
+					item: {
+						components: {
+							"etched:disc_appearance": {
+								discColor: -11447983
+								labelPrimaryColor: -14869215
+								labelSecondaryColor: -5231066
+								pattern: "flat"
+							}
+							"etched:music": [{
+								Author: "vlad_cel_mare"
+								Url: "https://od.lk/s/Nl8yODYyMDQ0NDRf/Pierce%20The%20Veil%20Currents%20Convulsive%20%28Official%20Music%20Video%29%20-%20Equal%20Vision%20Records%20%28128k%29.mp3"
+							}]
+							"minecraft:lore": ["\"Pierce The Veil - Currents Convulsive\""]
+						}
+						count: 1
+						id: "etched:etched_music_disc"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				id: "3D6051B44C7B728F"
+				item: { components: { "minecraft:custom_name": "\"Flavia Token\"" }, count: 1, id: "displaydelight:edd_bubble_tea" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7127F274C1E5B4BF"]
+			id: "073C5B5091E25530"
+			rewards: [
+				{
+					id: "4C9F7CB5C02041FF"
+					item: {
+						components: {
+							"minecraft:custom_name": "\"Gustarea Speedrunnerului\""
+							"someassemblyrequired:sandwich_contents": [
+								{
+									count: 1
+									id: "someassemblyrequired:bread_slice"
+								}
+								{
+									count: 1
+									id: "minecraft:cooked_salmon"
+								}
+								{
+									count: 1
+									id: "minecraft:rotten_flesh"
+								}
+								{
+									components: {
+										"minecraft:suspicious_stew_effects": [{
+											duration: 7
+											id: "minecraft:saturation"
+										}]
+									}
+									count: 1
+									id: "minecraft:suspicious_stew"
+								}
+								{
+									count: 1
+									id: "minecraft:carrot"
+								}
+								{
+									count: 1
+									id: "minecraft:bread"
+								}
+								{
+									components: {
+										"minecraft:potion_contents": {
+											potion: "apothic_attributes:strong_knowledge"
+										}
+									}
+									count: 1
+									id: "minecraft:potion"
+								}
+								{
+									count: 1
+									id: "someassemblyrequired:bread_slice"
+								}
+							]
+						}
+						count: 1
+						id: "someassemblyrequired:sandwich"
+					}
+					type: "item"
+				}
+				{
+					id: "6E9A5C4AFA3D6F61"
+					item: {
+						components: {
+							"minecraft:custom_name": "\"Galosi De Fotbal\""
+							"minecraft:enchantments": {
+								levels: {
+									"minecraft:soul_speed": 2
+								}
+							}
+							"minecraft:lore": ["\"Ca vantul... gandul... si... mingea..!\""]
+						}
+						count: 1
+						id: "alexsmobs:roadrunner_boots"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				id: "5BC9FEEF91E51F1B"
+				item: { components: { "minecraft:custom_name": "\"Paul Token\"" }, count: 1, id: "displaydelight:edd_dragon_breath_soda" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7127F274C1E5B4BF"]
+			id: "1EA0F02B883962C3"
+			rewards: [
+				{
+					id: "236B41FF724FF281"
+					item: {
+						components: {
+							"minecraft:custom_name": "\"Sendvisul suprem.\""
+							"someassemblyrequired:sandwich_contents": [
+								{
+									count: 1
+									id: "someassemblyrequired:burger_bun_bottom"
+								}
+								{
+									count: 1
+									id: "farmersdelight:cabbage_rolls"
+								}
+								{
+									count: 1
+									id: "brewinandchewin:vodka"
+								}
+								{
+									count: 1
+									id: "mynethersdelight:golden_egg"
+								}
+								{
+									count: 1
+									id: "someassemblyrequired:tomato_slices"
+								}
+								{
+									count: 1
+									id: "farmersdelight:cabbage_leaf"
+								}
+								{
+									count: 1
+									id: "brewinandchewin:pizza_slice"
+								}
+								{
+									count: 1
+									id: "neapolitan:mint_chocolate"
+								}
+								{
+									count: 1
+									id: "abnormals_delight:adzuki_cake_slice"
+								}
+								{
+									count: 1
+									id: "someassemblyrequired:burger_bun_top"
+								}
+							]
+						}
+						count: 1
+						id: "someassemblyrequired:sandwich"
+					}
+					type: "item"
+				}
+				{
+					id: "3CC0246AD56A4D26"
+					item: {
+						components: {
+							"minecraft:custom_name": "\"El Sombrero\""
+							"minecraft:enchantments": {
+								levels: {
+									"spell_power:magic_protection": 3
+								}
+							}
+							"minecraft:lore": ["\"𝅘𝅥𝅮 La cucaracha, La cucaracha 𝅘𝅥𝅮\""]
+						}
+						count: 1
+						id: "alexsmobs:sombrero"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				id: "13108D96190EDFC1"
+				item: { components: { "minecraft:custom_name": "\"Maria token\"" }, count: 1, id: "displaydelight:crd_coconut_milk" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7127F274C1E5B4BF"]
+			id: "1F90B964A1E08E0F"
+			rewards: [
+				{
+					id: "36C3A754FD347F72"
+					item: {
+						components: {
+							"minecraft:custom_name": "\"Grigore\""
+							"someassemblyrequired:sandwich_contents": [
+								{
+									count: 1
+									id: "someassemblyrequired:bread_slice"
+								}
+								{
+									count: 1
+									id: "farmersdelight:milk_bottle"
+								}
+								{
+									count: 1
+									id: "farmersdelight:cabbage_rolls"
+								}
+								{
+									count: 1
+									id: "brewinandchewin:flaxen_cheese_wedge"
+								}
+								{
+									components: {
+										"minecraft:potion_contents": {
+											potion: "minecraft:infested"
+										}
+									}
+									count: 1
+									id: "minecraft:potion"
+								}
+								{
+									count: 1
+									id: "someassemblyrequired:bread_slice"
+								}
+							]
+						}
+						count: 1
+						id: "someassemblyrequired:sandwich"
+					}
+					type: "item"
+				}
+				{
+					id: "0BF057A49E44B93B"
+					item: {
+						components: {
+							"minecraft:custom_name": "\"Buzduganul Unui Zmeu\""
+							"minecraft:enchantments": {
+								levels: {
+									"minecraft:knockback": 2
+								}
+							}
+							"minecraft:lore": ["\"\\\"Iar buzduganul si-l arunca sa spintece nourii\\\"\""]
+							"minecraft:repair_cost": 1
+						}
+						count: 1
+						id: "magistuarmory:steel_heavymace"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				id: "2C3B00A8CEA5AD71"
+				item: { components: { "minecraft:custom_name": "\"Rares Token\"" }, count: 1, id: "displaydelight:df_ender_nectar" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7127F274C1E5B4BF"]
+			id: "3BFE83093FD4A7E3"
+			rewards: [
+				{
+					id: "3685D9D4325097CC"
+					item: {
+						components: {
+							"minecraft:custom_name": "\"Sandwich cu... Parizer!\""
+							"someassemblyrequired:sandwich_contents": [
+								{
+									count: 1
+									id: "someassemblyrequired:bread_slice"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "farmersdelight:ham"
+								}
+								{
+									count: 1
+									id: "someassemblyrequired:bread_slice"
+								}
+							]
+						}
+						count: 1
+						id: "someassemblyrequired:sandwich"
+					}
+					type: "item"
+				}
+				{
+					id: "090956E1795C6BA5"
+					item: {
+						components: {
+							"minecraft:custom_name": "\"Renumitul Tezaur Romanesc\""
+						}
+						count: 1
+						id: "backpacked:backpack"
+					}
+					type: "item"
+				}
+				{
+					id: "2601C7FFA839CC8F"
+					item: {
+						components: {
+							"minecraft:custom_name": "\"Coiful de la Cotofenesti\""
+							"minecraft:enchantments": {
+								levels: {
+									"minecraft:loyalty": 3
+									"minecraft:protection": 3
+								}
+							}
+							"minecraft:lore": ["\"Vointa lui Burebista\""]
+							"minecraft:repair_cost": 3
+						}
+						count: 1
+						id: "minecraft:golden_helmet"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				id: "27E6C805590889BD"
+				item: { components: { "minecraft:custom_name": "\"Eric Token\"" }, count: 1, id: "displaydelight:cd_creamy_corn_drink" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7127F274C1E5B4BF"]
+			id: "3003922FCFD3A4B8"
+			rewards: [
+				{
+					id: "7422D1195F138403"
+					item: {
+						components: {
+							"minecraft:custom_name": "\"Shaorma Calda Din Veceu\""
+							"someassemblyrequired:sandwich_contents": [
+								{
+									count: 1
+									id: "someassemblyrequired:toasted_bread_slice"
+								}
+								{
+									components: {
+										"minecraft:potion_contents": {
+											potion: "minecraft:long_invisibility"
+										}
+									}
+									count: 1
+									id: "minecraft:potion"
+								}
+								{
+									components: {
+										"minecraft:suspicious_stew_effects": [{
+											duration: 300
+											id: "minecraft:nausea"
+										}]
+									}
+									count: 1
+									id: "minecraft:suspicious_stew"
+								}
+								{
+									components: {
+										"minecraft:suspicious_stew_effects": [{
+											duration: 200
+											id: "minecraft:poison"
+										}]
+									}
+									count: 1
+									id: "minecraft:suspicious_stew"
+								}
+								{
+									components: {
+										"minecraft:suspicious_stew_effects": [{
+											id: "minecraft:blindness"
+										}]
+									}
+									count: 1
+									id: "minecraft:suspicious_stew"
+								}
+								{
+									components: {
+										"minecraft:suspicious_stew_effects": [{
+											duration: 7
+											id: "minecraft:saturation"
+										}]
+									}
+									count: 1
+									id: "minecraft:suspicious_stew"
+								}
+								{
+									components: {
+										"minecraft:suspicious_stew_effects": [{
+											duration: 120
+											id: "minecraft:mining_fatigue"
+										}]
+									}
+									count: 1
+									id: "minecraft:suspicious_stew"
+								}
+								{
+									components: {
+										"minecraft:potion_contents": {
+											potion: "minecraft:strength"
+										}
+									}
+									count: 1
+									id: "minecraft:potion"
+								}
+								{
+									components: {
+										"minecraft:potion_contents": {
+											potion: "minecraft:leaping"
+										}
+									}
+									count: 1
+									id: "minecraft:potion"
+								}
+								{
+									count: 1
+									id: "brewinandchewin:beer"
+								}
+								{
+									count: 1
+									id: "brewinandchewin:beer"
+								}
+								{
+									count: 1
+									id: "brewinandchewin:beer"
+								}
+								{
+									count: 1
+									id: "brewinandchewin:beer"
+								}
+								{
+									count: 1
+									id: "brewinandchewin:beer"
+								}
+								{
+									count: 1
+									id: "brewinandchewin:beer"
+								}
+								{
+									count: 1
+									id: "farmersdelight:mutton_wrap"
+								}
+								{
+									count: 1
+									id: "someassemblyrequired:bread_slice"
+								}
+							]
+						}
+						count: 1
+						id: "someassemblyrequired:sandwich"
+					}
+					type: "item"
+				}
+				{
+					id: "0068ED1AF3E67DD8"
+					item: {
+						components: {
+							"etched:disc_appearance": {
+								discColor: -11447983
+								labelPrimaryColor: -1
+								labelSecondaryColor: -75715
+								pattern: "eye"
+							}
+							"etched:music": [{
+								Author: "vlad_cel_mare"
+								Url: "https://od.lk/s/Nl8yODg2NDY2ODJf/Pindu%20-%20Treambura%20pamporea%20%5BuLPNJZRU1qA%5D.mp3"
+							}]
+							"minecraft:lore": ["\"Pindu - Treambura Pamporea\""]
+						}
+						count: 1
+						id: "etched:etched_music_disc"
+					}
+					type: "item"
+				}
+				{
+					id: "240A2A1B3EDB0179"
+					item: {
+						components: {
+							"minecraft:stored_enchantments": {
+								levels: {
+									"minecraft:lure": 1
+								}
+							}
+						}
+						count: 1
+						id: "minecraft:enchanted_book"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				id: "3B7C13C645605C30"
+				item: { components: { "minecraft:custom_name": "\"Darius Token\"" }, count: 1, id: "displaydelight:pd_pineapple_juice" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7127F274C1E5B4BF"]
+			id: "1A0F6D6973CF4DBB"
+			rewards: [
+				{
+					id: "3BF5B2645E4DB32B"
+					item: {
+						components: {
+							"minecraft:custom_name": "\"Gustarica\""
+							"someassemblyrequired:sandwich_contents": [
+								{
+									count: 1
+									id: "someassemblyrequired:bread_slice"
+								}
+								{
+									count: 1
+									id: "farmersdelight:mutton_wrap"
+								}
+								{
+									count: 1
+									id: "brewinandchewin:beer"
+								}
+								{
+									components: {
+										"minecraft:custom_name": "\"Rabdari Prajite\""
+									}
+									count: 1
+									id: "relics:cooked_meatball"
+								}
+								{
+									count: 1
+									id: "farmersdelight:tomato_sauce"
+								}
+								{
+									count: 1
+									id: "neapolitan:chocolate_bar"
+								}
+								{
+									count: 1
+									id: "someassemblyrequired:bread_slice"
+								}
+								{
+									count: 1
+									id: "brewinandchewin:beer"
+								}
+								{
+									count: 1
+									id: "farmersdelight:mutton_wrap"
+								}
+								{
+									components: {
+										"minecraft:custom_name": "\"Rabdari Prajite\""
+									}
+									count: 1
+									id: "relics:cooked_meatball"
+								}
+								{
+									count: 1
+									id: "farmersdelight:tomato_sauce"
+								}
+								{
+									count: 1
+									id: "neapolitan:chocolate_bar"
+								}
+								{
+									components: {
+										"minecraft:potion_contents": {
+											potion: "apothic_attributes:resistance"
+										}
+									}
+									count: 1
+									id: "minecraft:potion"
+								}
+								{
+									count: 1
+									id: "someassemblyrequired:bread_slice"
+								}
+							]
+						}
+						count: 1
+						id: "someassemblyrequired:sandwich"
+					}
+					type: "item"
+				}
+				{
+					id: "32D4465C23F3E3CE"
+					item: {
+						components: {
+							"minecraft:custom_name": "\"Complimentele Bucatarului\""
+							"minecraft:enchantments": {
+								levels: {
+									"minecraft:fire_aspect": 1
+									"minecraft:knockback": 2
+								}
+							}
+							"minecraft:lore": ["\"Cand ti-e foame, oricine poate fi un ingredient.\""]
+							"minecraft:repair_cost": 3
+						}
+						count: 1
+						id: "farmersdelight:skillet"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				id: "338235C4D0B16F47"
+				item: { components: { "minecraft:custom_name": "\"Razvan Token\"" }, count: 1, id: "displaydelight:ed_cranberry_juice" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7127F274C1E5B4BF"]
+			icon: {
+				components: {
+					"ftbquests:icon": "jei:textures/jei/atlas/gui/icons/info.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "603EE42D459ABA0F"
+			rewards: [{
+				id: "5E2A96E744A45AA6"
+				item: {
+					count: 1
+					id: "minecraft:apple"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "28616402425FA4FF"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			id: "44349DC1FDEFA1AD"
+			rewards: [{
+				id: "172D042CC5D6BC48"
+				item: {
+					components: {
+						"minecraft:map_id": 6
+					}
+					count: 1
+					id: "minecraft:filled_map"
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 1.3d
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "ftbquests:textures/gui/alert.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "2447875E0DA8004E"
+				observe_type: 0
+				timer: 0L
+				to_observe: "supplementaries:notice_board"
+				type: "observation"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+	]
 }

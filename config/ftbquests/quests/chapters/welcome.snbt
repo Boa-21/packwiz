@@ -462,7 +462,7 @@
 				}
 			]
 			x: -7.5d
-			y: 0.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["3A631AC6F1B283FE"]
@@ -492,6 +492,34 @@
 			}]
 			x: -0.5d
 			y: 0.0d
+		}
+		{
+			dependencies: ["3BF8B86ADEA02F23"]
+			id: "05660680E79D72A9"
+			rewards: [{
+				count: 4
+				id: "1D395293507985CF"
+				item: {
+					count: 1
+					id: "ecologics:flowering_azalea_fence"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "4D79491F0DF3D27E"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(connectiblechains:catenary_items)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "3C0013F7B1CDF833"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(zipline:attachment)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: -7.5d
+			y: -0.5d
 		}
 	]
 }

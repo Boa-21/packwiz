@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "echipament"
-	group: "19CE5F7566B3EAD9"
+	group: "704A45306926EF15"
 	icon: {
 		components: {
 			"relics:data": {
@@ -113,7 +113,7 @@
 		id: "relics:midnight_mantle"
 	}
 	id: "5F6DDD44078F284A"
-	order_index: 2
+	order_index: 1
 	quest_links: [ ]
 	quests: [ ]
 }
