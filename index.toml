@@ -2583,11 +2583,6 @@ hash = "d8521ff7f9f40d8dede26242bad1fb595456592a18937b17713d630183bb7b79"
 metafile = true
 
 [[files]]
-file = "mods/advancements-reloaded.pw.toml"
-hash = "60915e4a581fd0d55150de582201a09074c339d4f3c5df44bb143f4c67b4341a"
-metafile = true
-
-[[files]]
 file = "mods/advancementsfullscreen-mc1.20.5+1.0.jar"
 hash = "606225aad44297f4f1d8bff245c0679a56c9321e4a9f46bcb1502884d71a5c5f"
 
