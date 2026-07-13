@@ -2724,11 +2724,6 @@ hash = "1e03fcbd256bcadd61355bee6db7b43f2bd4de1da3e7ff7701ebc37b53a4ed47"
 metafile = true
 
 [[files]]
-file = "mods/bountiful.pw.toml"
-hash = "aa8dc31f29bc3cff0dbb35cb00ffa0208cc77875d5d33b90ba1a25a5e2998481"
-metafile = true
-
-[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "ca1c3cf6a4e10b522badeb88241a8a265d899c584d3a77b33861cad3b27ad584"
 metafile = true
