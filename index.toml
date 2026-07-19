@@ -3026,7 +3026,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "8216df87a999ef7bc66f3a60715f578abd97d7f4bf19f53efb2498189a8d26e3"
+hash = "89b5bb8253e0a8903d367d2b65d4f5cacf6df7307fc92b9f8f44ad7afec2519c"
 metafile = true
 
 [[files]]
@@ -3218,7 +3218,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "4120e6c40b7cffdffdd1996494d6b79034d82e1d85e84d9537262ec63773b45a"
+hash = "b0364f6b95f6ed837239c232bad0e2d7317e58f0e4c040e66a4f533239d5775e"
 metafile = true
 
 [[files]]
@@ -3232,7 +3232,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-structure-lib.pw.toml"
-hash = "94dfa4f9fce750ec4961b55b289b3ee3959a06b7b8a39a54ed9a0c709565658a"
+hash = "7827f48353ece869368dc9b9e5e5f3111d1dc38d166f376fbb176bba96d9e421"
 metafile = true
 
 [[files]]
@@ -3320,7 +3320,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-neoforge.pw.toml"
-hash = "15671093f4807e6f710dc257bd635a4bdf385ed57c339687cae4a24f62f85dd8"
+hash = "d8818a1c19f8154a6ee7da17bc46103df146b67739538a3db2910998baae7fd0"
 metafile = true
 
 [[files]]
@@ -3360,7 +3360,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-animation-library.pw.toml"
-hash = "252547b364471df931005a57234082388e74eed949387ef39d17ce5fc56e190d"
+hash = "724daaea2150eeb1baf560e2a88afccd01c5a49cc3e36d114219ad62f55c7ca2"
 metafile = true
 
 [[files]]
@@ -3375,7 +3375,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "67ea71a3edcd88bb031720932f519151923b8dbb94633ddd8fb0f9585e8d9e7a"
+hash = "59278a379f3ee485b86d4cfd42ab85876c4dc679d641a8ce9a6108f10ba9ba60"
 metafile = true
 
 [[files]]
@@ -3410,7 +3410,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "e633ad5d3c79562f2e151a2c87759c1ac30ca95b81110fb8b5b2fb22eecd1a8c"
+hash = "aa1b79c20fb2d9f71f248eb6c678f72263f846d2dd0bbb57f569fc7f6f2b4856"
 metafile = true
 
 [[files]]
@@ -3455,7 +3455,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "a4556f8b747aaec7ecc23076486df4dc44bdea6d6314db136e37f4737a14b989"
+hash = "2fe821faf9b627c75225d34d8c9637acdcb8cec987696280e592203e000a5c49"
 metafile = true
 
 [[files]]
@@ -3484,7 +3484,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "1be827b4855baea69d02126a7491b26f2cb695eabb19a76bd8c10f968f25ea1c"
+hash = "a2348299d70ed7af9bb57b1a8ff034dd3136ff9468aa91479405f2599cd1c0a9"
 metafile = true
 
 [[files]]
@@ -3533,7 +3533,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "04b3be3c277aae9b433691018e1d0dfc35f883356d539da58c8e8186f6a038ca"
+hash = "daafacba438d96ad88d41f61e7fe46a417d3cf84ecb1f9c25a4ebf7ce69314bc"
 metafile = true
 
 [[files]]
@@ -3577,12 +3577,12 @@ hash = "1bb01fa096c82ce20fc841e658f6e1778d88785a84bd6a28c2733f589b1b83f3"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "b1e493739237b42f5126b35f801d1cd550edfffd1c5a42c8e3e36bc1ad443f52"
+hash = "03b30d68893aff0507d36044ab3b43e586f4412274b5de0abe193b9f4a754905"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "d7741a98f8178b9c32f62b0eb334cac2961ae95bfe5fdcec060918bbc9b0311c"
+hash = "210cce3a74344d8ccbe0023ea0399b5573c5e622ae970d0cf81b753b18f1fc3f"
 metafile = true
 
 [[files]]
