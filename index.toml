@@ -2001,6 +2001,14 @@ file = "config/sawmill-common.toml"
 hash = "6d42c3a82a1e6663badf4408764a03a5ff8a99052dae0a8dfdfc4fb5ad73175d"
 
 [[files]]
+file = "config/servercore/config.yml"
+hash = "d274b352426df22ce6630e8fb3cdfe677d4c403e5408cca1e419b27e586f439b"
+
+[[files]]
+file = "config/servercore/optimizations.yml"
+hash = "63ba7034fdf1f45f1b40798d3212f8d838f7c299fbe5795075fbafe1e2265192"
+
+[[files]]
 file = "config/shulkerboxtooltip.json5"
 hash = "1e348c244bd5f74045c97877709957c54a0c73c1f0b121bb207e6ebe93f1035a"
 
