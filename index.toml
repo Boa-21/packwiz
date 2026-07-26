@@ -3589,6 +3589,11 @@ hash = "49354f4538106e52a7f01bde14be32a598dd4ed091f5e024c60fd24fb6c22b0d"
 metafile = true
 
 [[files]]
+file = "mods/universal-enchants.pw.toml"
+hash = "df7efd3dd3569c8c20117dca3ca62ba838c1419bb53f8b8b682bddc39c875189"
+metafile = true
+
+[[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "0ed7d23f7f9bb186c0ff097fe015bf0988a456999f2cf6658705a6b4a17350e4"
 metafile = true
