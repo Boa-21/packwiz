@@ -2708,11 +2708,6 @@ file = "mods/balm-neoforge-1.21.1-21.0.60.jar"
 hash = "d6753e1e2a013db813a0825f73b7d937b00eeb075eecb1ffb3b273cca89be1a4"
 
 [[files]]
-file = "mods/barched.pw.toml"
-hash = "96a2120a61eb47c23178970da58e29dcbdcda59bc0c6ef9b334692c2b4ae3918"
-metafile = true
-
-[[files]]
 file = "mods/berry-good.pw.toml"
 hash = "43bf0f9b4430d4e6e6b948dec00ae8832097f24b8f9e9a23e6b0115fdeae6a0a"
 metafile = true
@@ -3551,6 +3546,11 @@ hash = "bddc71ecd4f074a101eb3785599d13c69e64025e1029aa0fd0a28fcf9bccf2ea"
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/spear-downport.pw.toml"
+hash = "e7db7f1d3864a8772f2198506b5dab334a817813a1ae2033356e2cfe1584cc3d"
 metafile = true
 
 [[files]]
