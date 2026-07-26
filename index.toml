@@ -2940,9 +2940,8 @@ hash = "33ba7f7dd775051d79fca78ab642d3fd20df98b10b8c859786afde1afae20836"
 metafile = true
 
 [[files]]
-file = "mods/enchantments-unrestricted.pw.toml"
-hash = "4f0f7d789eaa28e3c23e6e0cd68bd499e334d9ea322a7f8486738c6ac7ff8acf"
-metafile = true
+file = "mods/enchantmentsunrestricted-neoforge-1.21-1.0.1.jar"
+hash = "b4807adf89b1ea9cde82d001eac789d940cfbc54fb05d046b7a4f07e730a695f"
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
