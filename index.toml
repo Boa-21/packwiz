@@ -2625,7 +2625,7 @@ metafile = true
 
 [[files]]
 file = "mods/apothic-attributes.pw.toml"
-hash = "26adeeb9e8fdc96d8644b8cc6b141d24238a640fccf1a8f760f9f7460b71f151"
+hash = "5fbeebfba16e5480242c5e0db97a9167289500e53bc0df1a0a872c0e62f55de8"
 metafile = true
 
 [[files]]
@@ -2635,7 +2635,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4c59385c9c65a7a367adeacbabc57fa82f5796f1d987801397eb11e9c5421af7"
+hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
 
 [[files]]
@@ -2747,13 +2747,18 @@ hash = "ca1c3cf6a4e10b522badeb88241a8a265d899c584d3a77b33861cad3b27ad584"
 metafile = true
 
 [[files]]
+file = "mods/burnt.pw.toml"
+hash = "e7a3d24405fe48ec8268c9810483667be7028a80dfe973c41343b29bcaf9eeff"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "600e06ed53a2845fc6a8361d79a1d141442eadb53703a410d198970326e10eb6"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "d9b4c090ae096a5dbf82824edba9dfddc41b9ab384a4150333da290138aafed9"
+hash = "e9a8d009d97c91d0db1fc1411396e7279d659d613d6f051cc3f44d2b669011af"
 metafile = true
 
 [[files]]
@@ -2842,7 +2847,7 @@ metafile = true
 
 [[files]]
 file = "mods/critters-and-companions.pw.toml"
-hash = "bd04a3b2ee00d33c06cf1bceccdc668d66f8d48cb3f756bcc8ec0b2e2298fe2f"
+hash = "e105bc70dc4377918c94c9179d006c457479b586a8623bdec28b8174caad2c8e"
 metafile = true
 
 [[files]]
@@ -2857,7 +2862,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "0eaf99546b07ea456f4b8f198b646a06f5b9446fb735494f034871f70d36c569"
+hash = "c7c920fbdf1415fff28d6b7aa0a2585be1df114ce03edff75ad2b78d359823ad"
 metafile = true
 
 [[files]]
@@ -2971,7 +2976,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "c2f767bf7ca4486598a9c5c42d0e0158a42075d665690b0c5f6d999f76e23444"
+hash = "9e808c1647e29fde564148337ecde37f7c6a183f38ec192d4e3854ee715a5467"
 metafile = true
 
 [[files]]
@@ -3044,7 +3049,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "89b5bb8253e0a8903d367d2b65d4f5cacf6df7307fc92b9f8f44ad7afec2519c"
+hash = "56192b462e0aba10e48943345e590388e43078504340b55cb17146f0a4c1e16c"
 metafile = true
 
 [[files]]
@@ -3133,7 +3138,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "60744684868ba43cf41588d45412a78b95f64b2ec553b5ed627330e322952697"
+hash = "679daef751fe49e6b71d376869696ca98782f0c855a17968ce7b758a1920ab5a"
 metafile = true
 
 [[files]]
@@ -3216,7 +3221,7 @@ metafile = true
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "3af2025b7531cf66ce35479afa05a24582550d03f434e7781dc5fc3c3b07bdcc"
+hash = "85ab3b0caa411967eb8461901877090a88c6d78a1e53fe7e2a91e6bd2673456b"
 metafile = true
 
 [[files]]
@@ -3338,7 +3343,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-neoforge.pw.toml"
-hash = "d8818a1c19f8154a6ee7da17bc46103df146b67739538a3db2910998baae7fd0"
+hash = "f7ecb46414b23a8b8afe1fd5dc51c18553cde885ddef1b4146e5a9fb651b1b5b"
 metafile = true
 
 [[files]]
@@ -3398,7 +3403,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "59278a379f3ee485b86d4cfd42ab85876c4dc679d641a8ce9a6108f10ba9ba60"
+hash = "b650bb37e3553979e2332b510c4c91cfa1df8b66eb33877ce1ed6199811c92d1"
 metafile = true
 
 [[files]]
@@ -3423,17 +3428,17 @@ metafile = true
 
 [[files]]
 file = "mods/redomesticate.pw.toml"
-hash = "a5b7e0195f1af6243b18494ffb781d06cd83e458eda74f9db89ea0d0c11e4139"
+hash = "37fb00417beec6c2f4ef52c33793b17bfcb561908e4564994fb45d83450e398b"
 metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "a9d82daf5e10179e121de13a3ac6bad860fd72112e81e11832ae3a0258c5f694"
+hash = "676cdd7faa313efe414c81861b34e3f1c9cd7bb928c28470328292b054b7924b"
 metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "d68c7c3d2dac8a04f48973ad9a35db749cc18a6df9ff77162df0a2318d72927e"
+hash = "ab4de65a0b8bb557f0f34ef067bec2f8cb85e63c0ae71d59e7708cded23f248e"
 metafile = true
 
 [[files]]
@@ -3483,7 +3488,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "2fe821faf9b627c75225d34d8c9637acdcb8cec987696280e592203e000a5c49"
+hash = "0e806e9224ec274d133d2bcd9e32e7156b63967c1e9bf304dab48be98158da15"
 metafile = true
 
 [[files]]
@@ -3546,7 +3551,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-power.pw.toml"
-hash = "9237a35be8ed6a23ac23d974ff1cd88a901fb869c280dfa8662718bcea85add6"
+hash = "1c58c757001374e1c58ae4adc2ddaec6d9c706964d82d305e2d5bede8cdd0242"
 metafile = true
 
 [[files]]
@@ -3566,7 +3571,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "daafacba438d96ad88d41f61e7fe46a417d3cf84ecb1f9c25a4ebf7ce69314bc"
+hash = "a1ba6937e12284663e5f9df02c5290339db45eb790316e257e1050241cfd65a0"
 metafile = true
 
 [[files]]
@@ -3591,7 +3596,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista.pw.toml"
-hash = "84c742d2d301111d2f1d3b86ada446b5dc40d0b40b1b55c558e8f8c675ead9fe"
+hash = "cacbd8fde04be0aacf315b69b5d6e4cad997517c57d4fc58e5ea635bc22d68e7"
 metafile = true
 
 [[files]]

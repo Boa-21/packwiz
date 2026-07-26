@@ -1,13 +1,13 @@
 name = "Origins (NeoForge)"
-filename = "origins-0.3.jar"
+filename = "origins-0.3.1-beta.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "18d36e44c7fbc6361906aa52abb7705278217751"
+hash = "d484f783b3f33cd04723269df545486467898a83"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8449077
+file-id = 8511216
 project-id = 1375372
