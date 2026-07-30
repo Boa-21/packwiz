@@ -2591,6 +2591,10 @@ hash = "d8521ff7f9f40d8dede26242bad1fb595456592a18937b17713d630183bb7b79"
 metafile = true
 
 [[files]]
+file = "mods/advancements_reloaded-0.5.0-neoforge-1.21.1.jar"
+hash = "a3ed0a8676572a59aef1d52e0bdcd8b50971498b199b9784b8477a32d8fdb874"
+
+[[files]]
 file = "mods/advancementsfullscreen-mc1.20.5+1.0.jar"
 hash = "606225aad44297f4f1d8bff245c0679a56c9321e4a9f46bcb1502884d71a5c5f"
 
@@ -3082,6 +3086,11 @@ hash = "c6ae58b040b43e877c0a825f0f5a1492ca25eb26c6987c2bd5dfdfd866d3ea9f"
 metafile = true
 
 [[files]]
+file = "mods/hide-spectators.pw.toml"
+hash = "d826af29f943ecaedb3c33f4befb2f4d57d653ca627d2823a9da3f5c07935c64"
+metafile = true
+
+[[files]]
 file = "mods/horse-combat-controls.pw.toml"
 hash = "487388123b513c508e2076552b9b50a0071694154c2f9f1c8c9989d0b494076b"
 metafile = true
@@ -3289,7 +3298,7 @@ metafile = true
 
 [[files]]
 file = "mods/my-nethers-delight.pw.toml"
-hash = "3ac076cfa1b94300c6597d8cf23cd4b30fb35d7b96f202c852ef14237c40ab3f"
+hash = "ceca044e7cabf16b147a79c0800235249d26a95075058970c77957b1a1054d3c"
 metafile = true
 
 [[files]]
@@ -3342,7 +3351,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-neoforge.pw.toml"
-hash = "f7ecb46414b23a8b8afe1fd5dc51c18553cde885ddef1b4146e5a9fb651b1b5b"
+hash = "f94ed260bea7bc8fc6df8eb97eca31b212949d3c493c5934a22ac2754af16cfa"
 metafile = true
 
 [[files]]
@@ -3427,7 +3436,7 @@ metafile = true
 
 [[files]]
 file = "mods/redomesticate.pw.toml"
-hash = "37fb00417beec6c2f4ef52c33793b17bfcb561908e4564994fb45d83450e398b"
+hash = "ba573539d70db480da5e709574eff9efd9b76640c65e5cff3386236e59be8ce0"
 metafile = true
 
 [[files]]
@@ -3610,7 +3619,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista.pw.toml"
-hash = "cacbd8fde04be0aacf315b69b5d6e4cad997517c57d4fc58e5ea635bc22d68e7"
+hash = "2b014c52244132a8ab4e74cc681389fb4c2b3d6f2b33b982808375277fd44530"
 metafile = true
 
 [[files]]
@@ -3664,7 +3673,7 @@ metafile = true
 
 [[files]]
 file = "mods/ziplines-rezipped.pw.toml"
-hash = "bbeb45b0e8755fe74421c8e02d0461b3ba4afbcaf411c6356bc2a0177d2d1627"
+hash = "2563d7e60ebe3feff32d56f55ce5a218d08c756bdd7c00b6e56296abf4330d68"
 metafile = true
 
 [[files]]

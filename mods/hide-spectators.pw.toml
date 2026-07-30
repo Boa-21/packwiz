@@ -1,0 +1,13 @@
+name = "Hide Spectators"
+filename = "hide_spectators-neoforge-1.21.1-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tF9fjKbd/versions/BPbIU73T/hide_spectators-neoforge-1.21.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "d58b00917ce4c0beb96637c63215e32832809d4753a16b12e195575198fc95bd3c764c4b3a399cd24bf20e69d8023933611b3bda189c1ac1e82c675eac521b56"
+
+[update]
+[update.modrinth]
+mod-id = "tF9fjKbd"
+version = "BPbIU73T"
