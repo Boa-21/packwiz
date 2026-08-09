@@ -1,13 +1,13 @@
-name = "Burnt: Better Vanilla Fire"
-filename = "burnt-1.9.0.3-neoforge-1.21.1.jar"
+name = "Burnt + Additions. Better Vanilla Fire"
+filename = "burnt-1.10.2-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fcfc470767dfd21ffd50f0cdfbf4e06794d353a8"
+hash = "1386a7027837cb2c2df4f7084a0103a8c0b98c4a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6565856
+file-id = 8583255
 project-id = 998916

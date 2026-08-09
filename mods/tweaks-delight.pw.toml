@@ -1,0 +1,13 @@
+name = "Tweaks Delight"
+filename = "tweaksdelight-26.06.18-1.21-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/k4B832GB/versions/bsmOhuu0/tweaksdelight-26.06.18-1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "1f6db8695cce7aa751bd91b4ab3ea34b6cc1aa34bbb8d293865ef9629f4f36b5f0cd9918907c13ac6f3ec1476a24a154f9309b7ceaf76e98dbf2f3e46d25c886"
+
+[update]
+[update.modrinth]
+mod-id = "k4B832GB"
+version = "bsmOhuu0"
