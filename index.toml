@@ -2816,11 +2816,6 @@ hash = "74e6b5ff803a0a3a3a60226135f20df21d604556424acf8a26b86e782c9715f9"
 metafile = true
 
 [[files]]
-file = "mods/compat-delight.pw.toml"
-hash = "c2fa573c0956c12092a57877b9198290fb15ba1c8cf89a6e7268a69a85ff4bd3"
-metafile = true
-
-[[files]]
 file = "mods/compat-structure.pw.toml"
 hash = "01bfa36a44b0a5941d504c8a6b06ddf01480d8675fe730f1e055cf38ea93bd14"
 metafile = true
@@ -3441,6 +3436,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "73ff3ba8f3cd52d0d8d22835588b1727a10d38036d393f548cb3bf42251d2231"
+metafile = true
+
+[[files]]
+file = "mods/punchy-fpa.pw.toml"
+hash = "53981ef920b10c51bae6dc5360478e1d83782c154c2182121545619d157d609d"
 metafile = true
 
 [[files]]
