@@ -2884,6 +2884,11 @@ file = "mods/darcenos-minecarts-1.4.jar"
 hash = "7fb08c9dce4ee27af81939946679e2b28a1ae7b1b45aaf10cb1766002a8df860"
 
 [[files]]
+file = "mods/delicate-dyes.pw.toml"
+hash = "6a45e6250660ccd53577079964f74cead7bd9e30b928e4d9136540c281902b08"
+metafile = true
+
+[[files]]
 file = "mods/display-delight.pw.toml"
 hash = "4bf529c0b36ea0e8e01dc12e80f69a703948d28f7587460526ff0a1330f9e891"
 metafile = true
@@ -3436,11 +3441,6 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "73ff3ba8f3cd52d0d8d22835588b1727a10d38036d393f548cb3bf42251d2231"
-metafile = true
-
-[[files]]
-file = "mods/punchy-fpa.pw.toml"
-hash = "53981ef920b10c51bae6dc5360478e1d83782c154c2182121545619d157d609d"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Delicate Dyes"
+filename = "neoforge-delicate_dyes-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vGh3hhYH/versions/Irb5U0Jp/neoforge-delicate_dyes-1.21.1-2.0.0.jar"
+hash-format = "sha512"
+hash = "5117357770d5bfd213a52d5591b8eadc3f473f696e7030f11d32cfdbd7dbfdaa938bc042b0a7f4cd7f5d18f088df04d1c7d6f3065db8eaf16082c98882cbe0db"
+
+[update]
+[update.modrinth]
+mod-id = "vGh3hhYH"
+version = "Irb5U0Jp"
