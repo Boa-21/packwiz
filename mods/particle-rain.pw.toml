@@ -1,15 +1,15 @@
 name = "Particle Rain"
-filename = "particlerain-4.0.0-beta.10+1.21.1-neoforge.jar"
+filename = "particlerain-4.0.2+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "df2800c721e8a588dde48bc4b426707eccf712b6"
+hash = "444c6f221e57cca8e433702b18c4643faa82545a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8055433
+file-id = 9113934
 project-id = 421897
 
 [option]
