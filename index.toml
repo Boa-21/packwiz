@@ -2649,7 +2649,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "416b7f130791397fb2ceb9e89ce3fd0e870f207c8e40b759c069cb58b7544314"
+hash = "a35c812005762698c71c87d55c26745ea4dd244c1ef5f2df19f0a78ae04c575d"
 metafile = true
 
 [[files]]
@@ -2847,11 +2847,6 @@ metafile = true
 [[files]]
 file = "mods/cookielicious.pw.toml"
 hash = "1aa083f3156cecd0ac1b8a340ce69e4f7af2ef54446bb32159a15cfc0eedd46f"
-metafile = true
-
-[[files]]
-file = "mods/cooks-collection.pw.toml"
-hash = "338fd079b0c5a2c603ba4606114064dd910617371db86f6e46bc0d351b0d7cd5"
 metafile = true
 
 [[files]]
