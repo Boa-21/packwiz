@@ -2624,7 +2624,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "6357a6f383544babd0a58808192add47a4fe6e21cc80e9796b7d34791f2d0282"
+hash = "4cb9e0308bc1dd4fd88d67850fb144f4f53a9bc80bb366a9f63898276583a092"
 metafile = true
 
 [[files]]
@@ -2807,7 +2807,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "cc5d8c03a7c287457b024ea44f2caaa946c138ba27479532b435474379e5b51c"
+hash = "bc75931fbbfdf728ef8b9a3706d8ed1b81a310ab516b83def55471b94c163dc2"
 metafile = true
 
 [[files]]
@@ -2850,6 +2850,11 @@ hash = "1aa083f3156cecd0ac1b8a340ce69e4f7af2ef54446bb32159a15cfc0eedd46f"
 metafile = true
 
 [[files]]
+file = "mods/cooks-collection.pw.toml"
+hash = "338fd079b0c5a2c603ba4606114064dd910617371db86f6e46bc0d351b0d7cd5"
+metafile = true
+
+[[files]]
 file = "mods/crate-delight.pw.toml"
 hash = "fb35a3daacc36dd8186f9e5aa5336bafe6c1c5813e6248fc5dfb076e3c24cb5c"
 metafile = true
@@ -2871,7 +2876,7 @@ metafile = true
 
 [[files]]
 file = "mods/cultural-delights.pw.toml"
-hash = "4069ad1bdcf9e056cfa43ada96fbdf508c653acaf7994bcc6deadaf3667fa4dd"
+hash = "2ef1d79d93f6913d0fde0b8a44a70a0bb47ca8a0fbf4b1cf276ccbe44c4dafda"
 metafile = true
 
 [[files]]
@@ -3170,8 +3175,9 @@ hash = "aa174ecb0a6a7f21768481b87d1bc6aeb1a3eedab14176567c13579905ef045a"
 metafile = true
 
 [[files]]
-file = "mods/jei-1.21.1-neoforge-19.32.0.358.jar"
-hash = "38324bcd6732d5413894b41eca638ab58b8a52ce6c13b904a74c8f7874faf863"
+file = "mods/jei.pw.toml"
+hash = "8bc018284b753276f8e3510101852809bcccdad31a7ae17847df210c71a2c512"
+metafile = true
 
 [[files]]
 file = "mods/jupiter.pw.toml"
@@ -3219,7 +3225,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-furniture.pw.toml"
-hash = "356e724d1162dda22f3beb03f4287e8e80ac975e89af904d5064962bc9bcf0bc"
+hash = "c91f2655c26da6cfed95e837485a3995fd584f28e00aa31730528e77a477cc88"
 metafile = true
 
 [[files]]
@@ -3254,6 +3260,11 @@ metafile = true
 [[files]]
 file = "mods/lukis-crazy-chambers.pw.toml"
 hash = "255020944399ab5b11e069cecdd900ef1fafeed4701ebb27d3825a8a6e939178"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "cf5d87f046590b99d92096a79f6ea2f456290ba5d423c256f06674d2d10a1592"
 metafile = true
 
 [[files]]
@@ -3445,7 +3456,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "de262da5dd0e2ea6532c69c3b138059897335d56d67fded4fdbae14edf8a3c97"
+hash = "f54e19ec4d32f64f985900fc2da5579769937dff081167d48bec11932198b55f"
 metafile = true
 
 [[files]]
@@ -3470,17 +3481,17 @@ metafile = true
 
 [[files]]
 file = "mods/redomesticate.pw.toml"
-hash = "37fc6086fa13e6cd67fb3f03d64ae3190a9f7e1b344021041891c5b5b07bb9bb"
+hash = "19a56df9d3fa083c447ff58c313e03419a4a13a139adf0a408b78a1ad1cf7d7f"
 metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "1630e12fa535277726c81ca4333a1098d11d9fb7a2cccc8349db1d0bb9a4f23c"
+hash = "3ae93981838e0c87e9030878aa208dd86bdcc146854b38aa61c5ebb8108d4bb3"
 metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "2c685c7acc1a073d5df00357547f7a397ebd9db392747f2cdcd6c12804c46140"
+hash = "52a57d7acc80cbea69d894fa1d169483f1310451dc56a6f565778a6f543574d9"
 metafile = true
 
 [[files]]
@@ -3530,7 +3541,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "17d1fd2acd424ca53d3dc71b167e0f7e995ef112c46c9a0efd96b369729ef005"
+hash = "434fbe116618b5b950edcefd05e33f33831b8fa40f47a0970e394f81c3c4c197"
 metafile = true
 
 [[files]]
@@ -3608,7 +3619,7 @@ metafile = true
 
 [[files]]
 file = "mods/starcatcher.pw.toml"
-hash = "120f95b3402384aa261382f2c4f624342a790f37c94238f06d546f819e2123fd"
+hash = "568918da3fe5ac2d2b3c53e88c26d469129f4f764f718ba255b4c22588dfd045"
 metafile = true
 
 [[files]]

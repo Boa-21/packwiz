@@ -1,13 +1,13 @@
 name = "Reliable Remover"
-filename = "reliable_remover-3.5.1+1.21.1-neoforge.jar"
+filename = "reliable_remover-3.5.2+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7fdee8d7bc1cb51775c386ac39a9c3e481388edc"
+hash = "92b97d0cb52e3c46616f8a88d71659f835430547"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9105528
+file-id = 9126226
 project-id = 1420447
