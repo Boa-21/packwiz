@@ -2899,11 +2899,6 @@ hash = "4bf529c0b36ea0e8e01dc12e80f69a703948d28f7587460526ff0a1330f9e891"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "82c1cdac5d9407a71de8c1068ece09753f54f964703f2c6e22b8bd8f631bc13d"
-metafile = true
-
-[[files]]
 file = "mods/dnt-ancient-city-overhaul.pw.toml"
 hash = "8e7159d331ab9ea765915ea7e2c78e387dcc633a19e585c3aea102d100caf5e5"
 metafile = true
